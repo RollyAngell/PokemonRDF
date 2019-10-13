@@ -5,7 +5,6 @@
  */
 package pe.edu.pucp.claserdfs2;
 
-import java.io.BufferedReader;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.Property;
@@ -109,15 +108,6 @@ public class Pokedex {
         System.out.println("Relacion strongAgainst: ");
         Utilidades.leerArchivoPropiedad(DIR_BASE + "/Files/elementStrongAgainst.csv", 1, strongAgainst, Utilidades.NS, model);
         
-        // Inferencia de subClassOf
-        
-        // Inferencia de subPropertyOf
-        
-        // Inferencia de domain
-        
-        // Inferencia de range
-        
-        // Inferencia de __cualquiera__
         Utilidades.grabarRDF(DIR_BASE + "/Files/output.rdf", model);
     }
 }
