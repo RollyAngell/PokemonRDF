@@ -1,0 +1,13 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.0="http://www.pucp.edu.pe/informatica#">
+  <j.0:MVP rdf:about="http://www.pucp.edu.pe/informatica#Reilly"/>
+  <j.0:TopScorer rdf:about="http://www.pucp.edu.pe/informatica#Kaneda"/>
+  <rdf:Description rdf:about="http://www.pucp.edu.pe/informatica#MVP">
+    <rdfs:subClassOf rdf:resource="http://www.pucp.edu.pe/informatica#AllStarCandidate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.pucp.edu.pe/informatica#TopScorer">
+    <rdfs:subClassOf rdf:resource="http://www.pucp.edu.pe/informatica#AllStarCandidate"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,12 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.0="http://www.pucp.edu.pe/informatica#">
+  <rdf:Description rdf:about="http://www.pucp.edu.pe/informatica#Surgeon">
+    <rdfs:subClassOf rdf:resource="http://www.pucp.edu.pe/informatica#Physician"/>
+    <rdfs:subClassOf rdf:resource="http://www.pucp.edu.pe/informatica#Staff"/>
+  </rdf:Description>
+  <j.0:Physician rdf:about="http://www.pucp.edu.pe/informatica#Kildare">
+    <rdf:type rdf:resource="http://www.pucp.edu.pe/informatica#Staff"/>
+  </j.0:Physician>
+</rdf:RDF>
