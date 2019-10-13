@@ -52,7 +52,37 @@ public class PokedexInferencias {
             System.out.println("Error en la inferencia 1: " + e.getMessage());
         }
         // Inferencia de subPropertyOf
-        
+        try {
+            Resource articuno = Utilidades.obtenerRecurso(Utilidades.NS, "Articuno", model);
+            Resource leer = Utilidades.obtenerRecurso(Utilidades.NS, "Leer", model);
+            Property learnsMoveByLvl = Utilidades.obtenerPropiedad(Utilidades.NS, "learnsMoveByLvl", model);
+            Property learnsMoveByTMHM = Utilidades.obtenerPropiedad(Utilidades.NS, "learnsMoveByTMHM", model);
+            Property learnsMove = Utilidades.obtenerPropiedad(Utilidades.NS, "learnsMove", model);
+            
+            InfModel inf = ModelFactory.createRDFSModel(model);
+            
+            if (existenAfirmaciones(inf, articuno, learnsMoveByLvl, leer)) {
+                System.out.println("La afirmacion es cierta. Articuno aprende Leer por nivel.");
+            } else {
+                System.out.println("La afirmacion NO es cierta. Articuno NO aprende Leer por nivel.");
+            }
+            
+            if (existenAfirmaciones(inf, articuno, learnsMoveByTMHM, leer)) {
+                System.out.println("La afirmacion es cierta. Articuno aprende Leer por TM/HM.");
+            } else {
+                System.out.println("La afirmacion NO es cierta. Articuno NO aprende Leer por TM/HM.");
+            }
+            
+            if (existenAfirmaciones(inf, articuno, learnsMove, leer)) {
+                System.out.println("La afirmacion es cierta. Articuno aprende Leer.");
+            } else {
+                System.out.println("La afirmacion NO es cierta. Articuno NO aprende Leer.");
+            }
+            
+        }
+        catch (Exception e){
+            System.out.println("Error en la inferencia 2: " + e.getMessage());
+        }
         // Inferencia de domain
         
         // Inferencia de range
