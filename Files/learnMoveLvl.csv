@@ -1,0 +1,1503 @@
+﻿pokemon,movement
+Bulbasaur,Growl
+Bulbasaur,Tackle
+Bulbasaur,Vine Whip
+Bulbasaur,Leech Seed
+Bulbasaur,Poison Powder
+Bulbasaur,Sleep Powder
+Bulbasaur,Take Down
+Bulbasaur,Razor Leaf
+Bulbasaur,Growth
+Bulbasaur,Double-Edge
+Ivysaur,Growl
+Ivysaur,Leech Seed
+Ivysaur,Tackle
+Ivysaur,Vine Whip
+Ivysaur,Vine Whip
+Ivysaur,Leech Seed
+Ivysaur,Poison Powder
+Ivysaur,Sleep Powder
+Ivysaur,Take Down
+Ivysaur,Razor Leaf
+Ivysaur,Growth
+Ivysaur,Double-Edge
+Ivysaur,Solar Beam
+Venusaur,Amnesia
+Venusaur,Growl
+Venusaur,Leech Seed
+Venusaur,Petal Dance
+Venusaur,Tackle
+Venusaur,Vine Whip
+Venusaur,Vine Whip
+Venusaur,Leech Seed
+Venusaur,Poison Powder
+Venusaur,Sleep Powder
+Venusaur,Take Down
+Venusaur,Razor Leaf
+Venusaur,Growth
+Venusaur,Double-Edge
+Venusaur,Solar Beam
+Charmander,Scratch
+Charmander,Growl
+Charmander,Smokescreen
+Charmander,Ember
+Charmander,Fury Swipes
+Charmander,Dragon Rage
+Charmander,Fire Spin
+Charmander,Slash
+Charmander,Flamethrower
+Charmeleon,Ember
+Charmeleon,Growl
+Charmeleon,Scratch
+Charmeleon,Smokescreen
+Charmeleon,Growl
+Charmeleon,Smokescreen
+Charmeleon,Ember
+Charmeleon,Fury Swipes
+Charmeleon,Dragon Rage
+Charmeleon,Fire Spin
+Charmeleon,Slash
+Charmeleon,Flamethrower
+Charizard,Counter
+Charizard,Ember
+Charizard,Growl
+Charizard,Scratch
+Charizard,Smokescreen
+Charizard,Wing Attack
+Charizard,Growl
+Charizard,Smokescreen
+Charizard,Ember
+Charizard,Fury Swipes
+Charizard,Dragon Rage
+Charizard,Fire Spin
+Charizard,Slash
+Charizard,Flamethrower
+Squirtle,Tackle
+Squirtle,Tail Whip
+Squirtle,Bubble
+Squirtle,Withdraw
+Squirtle,Water Gun
+Squirtle,Bite
+Squirtle,Bubble Beam
+Squirtle,Headbutt
+Squirtle,Hydro Pump
+Squirtle,Skull Bash
+Wartortle,Bubble
+Wartortle,Tackle
+Wartortle,Tail Whip
+Wartortle,Withdraw
+Wartortle,Tail Whip
+Wartortle,Bubble
+Wartortle,Withdraw
+Wartortle,Water Gun
+Wartortle,Bite
+Wartortle,Bubble Beam
+Wartortle,Headbutt
+Wartortle,Hydro Pump
+Wartortle,Skull Bash
+Blastoise,Bubble
+Blastoise,Tackle
+Blastoise,Tail Whip
+Blastoise,Withdraw
+Blastoise,Tail Whip
+Blastoise,Bubble
+Blastoise,Withdraw
+Blastoise,Water Gun
+Blastoise,Bite
+Blastoise,Bubble Beam
+Blastoise,Headbutt
+Blastoise,Hydro Pump
+Blastoise,Skull Bash
+Caterpie,String Shot
+Caterpie,Tackle
+Metapod,Harden
+Butterfree,Confusion
+Butterfree,Gust
+Butterfree,Poison Powder
+Butterfree,Sleep Powder
+Butterfree,Stun Spore
+Butterfree,Psybeam
+Butterfree,Supersonic
+Butterfree,Whirlwind
+Weedle,Poison Sting
+Weedle,String Shot
+Kakuna,Harden
+Beedrill,Peck
+Beedrill,Twineedle
+Beedrill,Rage
+Beedrill,Fury Attack
+Beedrill,Focus Energy
+Beedrill,Agility
+Beedrill,Pin Missile
+Pidgey,Tackle
+Pidgey,Sand Attack
+Pidgey,Gust
+Pidgey,Mirror Move
+Pidgey,Quick Attack
+Pidgey,Wing Attack
+Pidgey,Whirlwind
+Pidgey,Agility
+Pidgey,Razor Wind
+Pidgeotto,Gust
+Pidgeotto,Quick Attack
+Pidgeotto,Sand Attack
+Pidgeotto,Tackle
+Pidgeotto,Sand Attack
+Pidgeotto,Gust
+Pidgeotto,Quick Attack
+Pidgeotto,Mirror Move
+Pidgeotto,Wing Attack
+Pidgeotto,Whirlwind
+Pidgeotto,Agility
+Pidgeotto,Razor Wind
+Pidgeot,Gust
+Pidgeot,Quick Attack
+Pidgeot,Sand Attack
+Pidgeot,Sky Attack
+Pidgeot,Tackle
+Pidgeot,Sand Attack
+Pidgeot,Gust
+Pidgeot,Quick Attack
+Pidgeot,Mirror Move
+Pidgeot,Wing Attack
+Pidgeot,Whirlwind
+Pidgeot,Agility
+Pidgeot,Razor Wind
+Rattata,Tackle
+Rattata,Tail Whip
+Rattata,Quick Attack
+Rattata,Focus Energy
+Rattata,Bite
+Rattata,Super Fang
+Rattata,Hyper Fang
+Rattata,Double-Edge
+Raticate,Counter
+Raticate,Focus Energy
+Raticate,Fury Swipes
+Raticate,Quick Attack
+Raticate,Swords Dance
+Raticate,Tackle
+Raticate,Tail Whip
+Raticate,Tail Whip
+Raticate,Quick Attack
+Raticate,Focus Energy
+Raticate,Bite
+Raticate,Super Fang
+Raticate,Hyper Fang
+Raticate,Double-Edge
+Spearow,Peck
+Spearow,Growl
+Spearow,Leer
+Spearow,Focus Energy
+Spearow,Fury Attack
+Spearow,Mirror Move
+Spearow,Agility
+Spearow,Drill Peck
+Fearow,Focus Energy
+Fearow,Growl
+Fearow,Leer
+Fearow,Peck
+Fearow,Quick Attack
+Fearow,Sky Attack
+Fearow,Growl
+Fearow,Leer
+Fearow,Focus Energy
+Fearow,Fury Attack
+Fearow,Mirror Move
+Fearow,Agility
+Fearow,Drill Peck
+Ekans,Poison Sting
+Ekans,Wrap
+Ekans,Leer
+Ekans,Acid
+Ekans,Bite
+Ekans,Haze
+Ekans,Glare
+Ekans,Slam
+Ekans,Screech
+Ekans,Toxic
+Arbok,Acid
+Arbok,Leer
+Arbok,Poison Sting
+Arbok,Wrap
+Arbok,Leer
+Arbok,Acid
+Arbok,Bite
+Arbok,Haze
+Arbok,Glare
+Arbok,Slam
+Arbok,Screech
+Arbok,Toxic
+Pikachu,Growl
+Pikachu,Thunder Shock
+Pikachu,Tail Whip
+Pikachu,Quick Attack
+Pikachu,Double Kick
+Pikachu,Double Team
+Pikachu,Thunder Wave
+Pikachu,Light Screen
+Pikachu,Thunderbolt
+Pikachu,Slam
+Pikachu,Agility
+Pikachu,Thunder
+Raichu,Growl
+Raichu,Quick Attack
+Raichu,Tail Whip
+Raichu,Thunder Punch
+Raichu,Thunder Shock
+Sandshrew,Defense Curl
+Sandshrew,Scratch
+Sandshrew,Poison Sting
+Sandshrew,Sand Attack
+Sandshrew,Swift
+Sandshrew,Fury Swipes
+Sandshrew,Dig
+Sandshrew,Swords Dance
+Sandshrew,Slash
+Sandshrew,Earthquake
+Sandslash,Counter
+Sandslash,Defense Curl
+Sandslash,Poison Sting
+Sandslash,Sand Attack
+Sandslash,Scratch
+Sandslash,Poison Sting
+Sandslash,Sand Attack
+Sandslash,Swift
+Sandslash,Fury Swipes
+Sandslash,Dig
+Sandslash,Swords Dance
+Sandslash,Slash
+Sandslash,Earthquake
+Nidoran♀,Growl
+Nidoran♀,Scratch
+Nidoran♀,Tail Whip
+Nidoran♀,Poison Sting
+Nidoran♀,Double Kick
+Nidoran♀,Bite
+Nidoran♀,Toxic
+Nidoran♀,Fury Swipes
+Nidoran♀,Super Fang
+Nidorina,Growl
+Nidorina,Poison Sting
+Nidorina,Scratch
+Nidorina,Tail Whip
+Nidorina,Tail Whip
+Nidorina,Poison Sting
+Nidorina,Double Kick
+Nidorina,Bite
+Nidorina,Toxic
+Nidorina,Fury Swipes
+Nidorina,Super Fang
+Nidoqueen,Body Slam
+Nidoqueen,Counter
+Nidoqueen,Growl
+Nidoqueen,Poison Sting
+Nidoqueen,Scratch
+Nidoqueen,Supersonic
+Nidoqueen,Tail Whip
+Nidoran♂,Leer
+Nidoran♂,Peck
+Nidoran♂,Focus Energy
+Nidoran♂,Poison Sting
+Nidoran♂,Double Kick
+Nidoran♂,Horn Attack
+Nidoran♂,Toxic
+Nidoran♂,Fury Attack
+Nidoran♂,Horn Drill
+Nidorino,Focus Energy
+Nidorino,Leer
+Nidorino,Peck
+Nidorino,Poison Sting
+Nidorino,Focus Energy
+Nidorino,Poison Sting
+Nidorino,Double Kick
+Nidorino,Horn Attack
+Nidorino,Toxic
+Nidorino,Fury Attack
+Nidorino,Horn Drill
+Nidoking,Counter
+Nidoking,Focus Energy
+Nidoking,Leer
+Nidoking,Peck
+Nidoking,Poison Sting
+Nidoking,Supersonic
+Nidoking,Thrash
+Clefairy,Growl
+Clefairy,Pound
+Clefairy,Defense Curl
+Clefairy,Sing
+Clefairy,Minimize
+Clefairy,Double Slap
+Clefairy,Amnesia
+Clefairy,Metronome
+Clefairy,Body Slam
+Clefable,Defense Curl
+Clefable,Growl
+Clefable,Metronome
+Clefable,Pound
+Clefable,Sing
+Vulpix,Tackle
+Vulpix,Tail Whip
+Vulpix,Ember
+Vulpix,Quick Attack
+Vulpix,Confuse Ray
+Vulpix,Fire Spin
+Vulpix,Flamethrower
+Vulpix,Roar
+Vulpix,Fire Blast
+Ninetales,Ember
+Ninetales,Hypnosis
+Ninetales,Quick Attack
+Ninetales,Tackle
+Ninetales,Tail Whip
+Jigglypuff,Sing
+Jigglypuff,Pound
+Jigglypuff,Defense Curl
+Jigglypuff,Bide
+Jigglypuff,Double Slap
+Jigglypuff,Disable
+Jigglypuff,Rest
+Jigglypuff,Body Slam
+Jigglypuff,Mimic
+Jigglypuff,Double-Edge
+Wigglytuff,Bide
+Wigglytuff,Minimize
+Wigglytuff,Pound
+Wigglytuff,Sing
+Zubat,Absorb
+Zubat,Supersonic
+Zubat,Wing Attack
+Zubat,Bite
+Zubat,Swift
+Zubat,Confuse Ray
+Zubat,Haze
+Zubat,Leech Life
+Zubat,Toxic
+Golbat,Absorb
+Golbat,Bite
+Golbat,Quick Attack
+Golbat,Supersonic
+Golbat,Whirlwind
+Golbat,Wing Attack
+Golbat,Wing Attack
+Golbat,Bite
+Golbat,Swift
+Golbat,Confuse Ray
+Golbat,Haze
+Golbat,Leech Life
+Golbat,Toxic
+Oddish,Absorb
+Oddish,Growth
+Oddish,Acid
+Oddish,Poison Powder
+Oddish,Stun Spore
+Oddish,Sleep Powder
+Oddish,Razor Leaf
+Oddish,Mega Drain
+Oddish,Toxic
+Gloom,Absorb
+Gloom,Acid
+Gloom,Growth
+Gloom,Poison Powder
+Gloom,Growth
+Gloom,Acid
+Gloom,Poison Powder
+Gloom,Stun Spore
+Gloom,Sleep Powder
+Gloom,Razor Leaf
+Gloom,Mega Drain
+Gloom,Toxic
+Vileplume,Absorb
+Vileplume,Acid
+Vileplume,Growth
+Vileplume,Poison Powder
+Vileplume,Solar Beam
+Vileplume,Petal Dance
+Paras,Scratch
+Paras,Sleep Powder
+Paras,Stun Spore
+Paras,Poison Powder
+Paras,Absorb
+Paras,Growth
+Paras,Fury Swipes
+Paras,Slash
+Paras,Leech Life
+Paras,Spore
+Parasect,Leech Seed
+Parasect,Poison Powder
+Parasect,Scratch
+Parasect,Screech
+Parasect,Sleep Powder
+Parasect,Stun Spore
+Parasect,Sleep Powder
+Parasect,Stun Spore
+Parasect,Poison Powder
+Parasect,Absorb
+Parasect,Growth
+Parasect,Fury Swipes
+Parasect,Slash
+Parasect,Leech Life
+Parasect,Spore
+Venonat,Tackle
+Venonat,Disable
+Venonat,Supersonic
+Venonat,Confusion
+Venonat,Poison Powder
+Venonat,Stun Spore
+Venonat,Psybeam
+Venonat,Sleep Powder
+Venonat,Leech Life
+Venonat,Psychic
+Venomoth,Agility
+Venomoth,Confusion
+Venomoth,Disable
+Venomoth,Gust
+Venomoth,Screech
+Venomoth,Supersonic
+Venomoth,Tackle
+Venomoth,Disable
+Venomoth,Supersonic
+Venomoth,Confusion
+Venomoth,Poison Powder
+Venomoth,Stun Spore
+Venomoth,Psybeam
+Venomoth,Sleep Powder
+Venomoth,Leech Life
+Venomoth,Psychic
+Diglett,Scratch
+Diglett,Sand Attack
+Diglett,Growl
+Diglett,Agility
+Diglett,Fury Swipes
+Diglett,Dig
+Diglett,Slash
+Diglett,Earthquake
+Diglett,Fissure
+Dugtrio,Agility
+Dugtrio,Growl
+Dugtrio,Sand Attack
+Dugtrio,Scratch
+Dugtrio,Screech
+Dugtrio,Tri Attack
+Dugtrio,Sand Attack
+Dugtrio,Growl
+Dugtrio,Agility
+Dugtrio,Fury Swipes
+Dugtrio,Dig
+Dugtrio,Slash
+Dugtrio,Earthquake
+Dugtrio,Fissure
+Meowth,Bite
+Meowth,Growl
+Meowth,Scratch
+Meowth,Bite
+Meowth,Pay Day
+Meowth,Fury Swipes
+Meowth,Screech
+Meowth,Slash
+Persian,Amnesia
+Persian,Bite
+Persian,Growl
+Persian,Hypnosis
+Persian,Scratch
+Persian,Swift
+Persian,Bite
+Persian,Pay Day
+Persian,Fury Swipes
+Persian,Screech
+Persian,Slash
+Psyduck,Scratch
+Psyduck,Tail Whip
+Psyduck,Water Gun
+Psyduck,Confusion
+Psyduck,Fury Swipes
+Psyduck,Disable
+Psyduck,Psybeam
+Psyduck,Screech
+Psyduck,Surf
+Psyduck,Amnesia
+Psyduck,Hydro Pump
+Golduck,Confusion
+Golduck,Scratch
+Golduck,Tail Whip
+Golduck,Water Gun
+Golduck,Tail Whip
+Golduck,Water Gun
+Golduck,Confusion
+Golduck,Fury Swipes
+Golduck,Disable
+Golduck,Psybeam
+Golduck,Screech
+Golduck,Surf
+Golduck,Amnesia
+Golduck,Hydro Pump
+Mankey,Leer
+Mankey,Scratch
+Mankey,Focus Energy
+Mankey,Karate Chop
+Mankey,Fury Swipes
+Mankey,Low Kick
+Mankey,Seismic Toss
+Mankey,Screech
+Mankey,Thrash
+Primeape,Counter
+Primeape,Focus Energy
+Primeape,Leer
+Primeape,Rage
+Primeape,Scratch
+Primeape,Focus Energy
+Primeape,Karate Chop
+Primeape,Fury Swipes
+Primeape,Low Kick
+Primeape,Seismic Toss
+Primeape,Screech
+Primeape,Thrash
+Growlithe,Bite
+Growlithe,Roar
+Growlithe,Ember
+Growlithe,Leer
+Growlithe,Take Down
+Growlithe,Flamethrower
+Growlithe,Agility
+Arcanine,Bite
+Arcanine,Double-Edge
+Arcanine,Ember
+Arcanine,Leer
+Arcanine,Roar
+Poliwag,Bubble
+Poliwag,Pound
+Poliwag,Hypnosis
+Poliwag,Water Gun
+Poliwag,Double Slap
+Poliwag,Bubble Beam
+Poliwag,Low Kick
+Poliwag,Body Slam
+Poliwag,Hydro Pump
+Poliwhirl,Bubble
+Poliwhirl,Hypnosis
+Poliwhirl,Pound
+Poliwhirl,Water Gun
+Poliwhirl,Pound
+Poliwhirl,Hypnosis
+Poliwhirl,Water Gun
+Poliwhirl,Double Slap
+Poliwhirl,Bubble Beam
+Poliwhirl,Low Kick
+Poliwhirl,Body Slam
+Poliwhirl,Hydro Pump
+Poliwrath,Bubble
+Poliwrath,Haze
+Poliwrath,Hypnosis
+Poliwrath,Mist
+Poliwrath,Pound
+Poliwrath,Submission
+Poliwrath,Water Gun
+Abra,Teleport
+Kadabra,Confusion
+Kadabra,Disable
+Kadabra,Flash
+Kadabra,Kinesis
+Kadabra,Psybeam
+Kadabra,Teleport
+Kadabra,Disable
+Kadabra,Flash
+Kadabra,Night Shade
+Kadabra,Substitute
+Kadabra,Reflect
+Kadabra,Recover
+Kadabra,Psychic
+Alakazam,Barrier
+Alakazam,Confusion
+Alakazam,Disable
+Alakazam,Flash
+Alakazam,Kinesis
+Alakazam,Psybeam
+Alakazam,Teleport
+Alakazam,Disable
+Alakazam,Flash
+Alakazam,Night Shade
+Alakazam,Substitute
+Alakazam,Reflect
+Alakazam,Recover
+Alakazam,Psychic
+Machop,Leer
+Machop,Low Kick
+Machop,Focus Energy
+Machop,Bide
+Machop,Seismic Toss
+Machop,Karate Chop
+Machop,Submission
+Machoke,Bide
+Machoke,Focus Energy
+Machoke,Leer
+Machoke,Low Kick
+Machoke,Focus Energy
+Machoke,Bide
+Machoke,Seismic Toss
+Machoke,Karate Chop
+Machoke,Submission
+Machamp,Bide
+Machamp,Counter
+Machamp,Focus Energy
+Machamp,Leer
+Machamp,Low Kick
+Machamp,Strength
+Machamp,Focus Energy
+Machamp,Bide
+Machamp,Seismic Toss
+Machamp,Karate Chop
+Machamp,Submission
+Bellsprout,Vine Whip
+Bellsprout,Growth
+Bellsprout,Wrap
+Bellsprout,Acid
+Bellsprout,Sleep Powder
+Bellsprout,Poison Powder
+Bellsprout,Stun Spore
+Bellsprout,Razor Leaf
+Bellsprout,Slam
+Weepinbell,Acid
+Weepinbell,Growth
+Weepinbell,Vine Whip
+Weepinbell,Wrap
+Weepinbell,Growth
+Weepinbell,Wrap
+Weepinbell,Acid
+Weepinbell,Sleep Powder
+Weepinbell,Poison Powder
+Weepinbell,Stun Spore
+Weepinbell,Razor Leaf
+Weepinbell,Slam
+Victreebel,Acid
+Victreebel,Growth
+Victreebel,Leech Life
+Victreebel,Swords Dance
+Victreebel,Vine Whip
+Victreebel,Wrap
+Tentacool,Poison Sting
+Tentacool,Constrict
+Tentacool,Supersonic
+Tentacool,Acid
+Tentacool,Bubble Beam
+Tentacool,Wrap
+Tentacool,Surf
+Tentacool,Barrier
+Tentacool,Screech
+Tentacool,Hydro Pump
+Tentacruel,Acid
+Tentacruel,Constrict
+Tentacruel,Haze
+Tentacruel,Poison Sting
+Tentacruel,Supersonic
+Tentacruel,Constrict
+Tentacruel,Supersonic
+Tentacruel,Acid
+Tentacruel,Bubble Beam
+Tentacruel,Wrap
+Tentacruel,Surf
+Tentacruel,Barrier
+Tentacruel,Screech
+Tentacruel,Hydro Pump
+Geodude,Defense Curl
+Geodude,Tackle
+Geodude,Sand Attack
+Geodude,Bide
+Geodude,Rock Throw
+Geodude,Take Down
+Geodude,Self-Destruct
+Geodude,Rock Slide
+Geodude,Earthquake
+Geodude,Double-Edge
+Geodude,Explosion
+Graveler,Bide
+Graveler,Defense Curl
+Graveler,Sand Attack
+Graveler,Tackle
+Graveler,Sand Attack
+Graveler,Bide
+Graveler,Rock Throw
+Graveler,Take Down
+Graveler,Self-Destruct
+Graveler,Rock Slide
+Graveler,Earthquake
+Graveler,Double-Edge
+Graveler,Explosion
+Golem,Bide
+Golem,Defense Curl
+Golem,Mega Punch
+Golem,Sand Attack
+Golem,Tackle
+Golem,Sand Attack
+Golem,Bide
+Golem,Rock Throw
+Golem,Take Down
+Golem,Self-Destruct
+Golem,Rock Slide
+Golem,Earthquake
+Golem,Double-Edge
+Golem,Explosion
+Ponyta,Growl
+Ponyta,Tackle
+Ponyta,Tail Whip
+Ponyta,Ember
+Ponyta,Quick Attack
+Ponyta,Double Kick
+Ponyta,Stomp
+Ponyta,Fire Spin
+Ponyta,Agility
+Ponyta,Fire Blast
+Ponyta,Take Down
+Rapidash,Ember
+Rapidash,Fury Attack
+Rapidash,Growl
+Rapidash,Horn Drill
+Rapidash,Hypnosis
+Rapidash,Tackle
+Rapidash,Tail Whip
+Rapidash,Ember
+Rapidash,Quick Attack
+Rapidash,Double Kick
+Rapidash,Stomp
+Rapidash,Fire Spin
+Rapidash,Agility
+Rapidash,Fire Blast
+Rapidash,Take Down
+Slowpoke,Tackle
+Slowpoke,Growl
+Slowpoke,Water Gun
+Slowpoke,Confusion
+Slowpoke,Disable
+Slowpoke,Rest
+Slowpoke,Surf
+Slowpoke,Psychic
+Slowpoke,Amnesia
+Slowbro,Growl
+Slowbro,Stomp
+Slowbro,Tackle
+Slowbro,Water Gun
+Slowbro,Withdraw
+Slowbro,Growl
+Slowbro,Water Gun
+Slowbro,Confusion
+Slowbro,Disable
+Slowbro,Rest
+Slowbro,Surf
+Slowbro,Psychic
+Slowbro,Amnesia
+Magnemite,Supersonic
+Magnemite,Tackle
+Magnemite,Thunder Shock
+Magnemite,Thunder Wave
+Magnemite,Sonic Boom
+Magnemite,Light Screen
+Magnemite,Thunderbolt
+Magnemite,Screech
+Magnemite,Thunder
+Magneton,Supersonic
+Magneton,Tackle
+Magneton,Thunder Shock
+Magneton,Thunder Wave
+Magneton,Tri Attack
+Magneton,Thunder Shock
+Magneton,Thunder Wave
+Magneton,Sonic Boom
+Magneton,Light Screen
+Magneton,Thunderbolt
+Magneton,Screech
+Magneton,Thunder
+Farfetch'd,Leer
+Farfetch'd,Mirror Move
+Farfetch'd,Peck
+Farfetch'd,Quick Attack
+Farfetch'd,Sand Attack
+Farfetch'd,Focus Energy
+Farfetch'd,Cut
+Farfetch'd,Razor Leaf
+Farfetch'd,Fury Attack
+Farfetch'd,Agility
+Farfetch'd,Slash
+Farfetch'd,Swords Dance
+Farfetch'd,Sky Attack
+Doduo,Growl
+Doduo,Peck
+Doduo,Quick Attack
+Doduo,Rage
+Doduo,Fury Attack
+Doduo,Agility
+Doduo,Drill Peck
+Doduo,Swords Dance
+Doduo,Jump Kick
+Doduo,Thrash
+Dodrio,Growl
+Dodrio,Mirror Move
+Dodrio,Peck
+Dodrio,Quick Attack
+Dodrio,Rage
+Dodrio,Supersonic
+Dodrio,Tri Attack
+Dodrio,Quick Attack
+Dodrio,Rage
+Dodrio,Fury Attack
+Dodrio,Agility
+Dodrio,Drill Peck
+Dodrio,Swords Dance
+Dodrio,Jump Kick
+Dodrio,Thrash
+Seel,Headbutt
+Seel,Growl
+Seel,Rest
+Seel,Aurora Beam
+Seel,Waterfall
+Seel,Take Down
+Seel,Ice Beam
+Seel,Double-Edge
+Dewgong,Growl
+Dewgong,Headbutt
+Dewgong,Horn Drill
+Dewgong,Growl
+Dewgong,Rest
+Dewgong,Aurora Beam
+Dewgong,Waterfall
+Dewgong,Take Down
+Dewgong,Ice Beam
+Dewgong,Double-Edge
+Grimer,Poison Gas
+Grimer,Pound
+Grimer,Harden
+Grimer,Minimize
+Grimer,Disable
+Grimer,Sludge
+Grimer,Screech
+Grimer,Toxic
+Grimer,Acid Armor
+Muk,Harden
+Muk,Haze
+Muk,Minimize
+Muk,Poison Gas
+Muk,Pound
+Muk,Harden
+Muk,Minimize
+Muk,Disable
+Muk,Sludge
+Muk,Screech
+Muk,Toxic
+Muk,Acid Armor
+Shellder,Tackle
+Shellder,Water Gun
+Shellder,Withdraw
+Shellder,Leer
+Shellder,Supersonic
+Shellder,Clamp
+Shellder,Aurora Beam
+Shellder,Ice Beam
+Shellder,Hydro Pump
+Cloyster,Barrier
+Cloyster,Leer
+Cloyster,Spike Cannon
+Cloyster,Tackle
+Cloyster,Twineedle
+Cloyster,Water Gun
+Cloyster,Withdraw
+Gastly,Hypnosis
+Gastly,Lick
+Gastly,Smog
+Gastly,Confuse Ray
+Gastly,Poison Gas
+Gastly,Night Shade
+Gastly,Toxic
+Gastly,Dream Eater
+Haunter,Confuse Ray
+Haunter,Hypnosis
+Haunter,Lick
+Haunter,Smog
+Haunter,Confuse Ray
+Haunter,Poison Gas
+Haunter,Night Shade
+Haunter,Toxic
+Haunter,Dream Eater
+Gengar,Confuse Ray
+Gengar,Disable
+Gengar,Haze
+Gengar,Hypnosis
+Gengar,Lick
+Gengar,Smog
+Gengar,Confuse Ray
+Gengar,Poison Gas
+Gengar,Night Shade
+Gengar,Toxic
+Gengar,Dream Eater
+Onix,Bind
+Onix,Harden
+Onix,Rock Throw
+Onix,Tackle
+Onix,Rage
+Onix,Screech
+Onix,Dig
+Onix,Slam
+Onix,Rock Slide
+Onix,Earthquake
+Onix,Double-Edge
+Drowzee,Hypnosis
+Drowzee,Pound
+Drowzee,Disable
+Drowzee,Confusion
+Drowzee,Poison Gas
+Drowzee,Meditate
+Drowzee,Psybeam
+Drowzee,Headbutt
+Drowzee,Psychic
+Drowzee,Dream Eater
+Hypno,Barrier
+Hypno,Confusion
+Hypno,Disable
+Hypno,Hypnosis
+Hypno,Pound
+Hypno,Disable
+Hypno,Confusion
+Hypno,Poison Gas
+Hypno,Meditate
+Hypno,Psybeam
+Hypno,Headbutt
+Hypno,Psychic
+Hypno,Dream Eater
+Krabby,Bubble
+Krabby,Vice Grip
+Krabby,Leer
+Krabby,Harden
+Krabby,Bubble Beam
+Krabby,Stomp
+Krabby,Slam
+Krabby,Crabhammer
+Krabby,Guillotine
+Kingler,Agility
+Kingler,Amnesia
+Kingler,Bubble
+Kingler,Harden
+Kingler,Leer
+Kingler,Vice Grip
+Kingler,Vice Grip
+Kingler,Leer
+Kingler,Harden
+Kingler,Bubble Beam
+Kingler,Stomp
+Kingler,Slam
+Kingler,Crabhammer
+Kingler,Guillotine
+Voltorb,Tackle
+Voltorb,Light Screen
+Voltorb,Sonic Boom
+Voltorb,Thunder Shock
+Voltorb,Swift
+Voltorb,Self-Destruct
+Voltorb,Screech
+Voltorb,Thunderbolt
+Voltorb,Explosion
+Electrode,Light Screen
+Electrode,Sonic Boom
+Electrode,Tackle
+Electrode,Thunder Shock
+Electrode,Light Screen
+Electrode,Sonic Boom
+Electrode,Thunder Shock
+Electrode,Swift
+Electrode,Self-Destruct
+Electrode,Screech
+Electrode,Thunderbolt
+Electrode,Explosion
+Exeggcute,Barrage
+Exeggcute,Hypnosis
+Exeggcute,Confusion
+Exeggcute,Stun Spore
+Exeggcute,Poison Powder
+Exeggcute,Sleep Powder
+Exeggcute,Psybeam
+Exeggcute,Leech Seed
+Exeggcute,Reflect
+Exeggcute,Solar Beam
+Exeggutor,Barrage
+Exeggutor,Confusion
+Exeggutor,Egg Bomb
+Exeggutor,Hypnosis
+Exeggutor,Stomp
+Exeggutor,Stun Spore
+Cubone,Growl
+Cubone,Tail Whip
+Cubone,Leer
+Cubone,Bone Club
+Cubone,Headbutt
+Cubone,Rage
+Cubone,Focus Energy
+Cubone,Bonemerang
+Cubone,Thrash
+Cubone,Double-Edge
+Marowak,Bone Club
+Marowak,Growl
+Marowak,Leer
+Marowak,Screech
+Marowak,Swords Dance
+Marowak,Tail Whip
+Marowak,Tail Whip
+Marowak,Leer
+Marowak,Bone Club
+Marowak,Headbutt
+Marowak,Rage
+Marowak,Focus Energy
+Marowak,Bonemerang
+Marowak,Thrash
+Marowak,Double-Edge
+Hitmonlee,Rolling Kick
+Hitmonlee,Meditate
+Hitmonlee,Double Kick
+Hitmonlee,Jump Kick
+Hitmonlee,Focus Energy
+Hitmonlee,Mega Kick
+Hitmonlee,High Jump Kick
+Hitmonchan,Comet Punch
+Hitmonchan,Leer
+Hitmonchan,Agility
+Hitmonchan,Swift
+Hitmonchan,Dizzy Punch
+Hitmonchan,Fire Punch
+Hitmonchan,Ice Punch
+Hitmonchan,Thunder Punch
+Hitmonchan,Focus Energy
+Hitmonchan,Mega Punch
+Hitmonchan,Counter
+Lickitung,Lick
+Lickitung,Wrap
+Lickitung,Acid
+Lickitung,Stomp
+Lickitung,Disable
+Lickitung,Bind
+Lickitung,Slam
+Lickitung,Screech
+Lickitung,Thrash
+Koffing,Poison Gas
+Koffing,Tackle
+Koffing,Smog
+Koffing,Sludge
+Koffing,Self-Destruct
+Koffing,Toxic
+Koffing,Haze
+Koffing,Explosion
+Weezing,Poison Gas
+Weezing,Psybeam
+Weezing,Screech
+Weezing,Smog
+Weezing,Tackle
+Weezing,Smog
+Weezing,Sludge
+Weezing,Self-Destruct
+Weezing,Toxic
+Weezing,Haze
+Weezing,Explosion
+Rhyhorn,Horn Attack
+Rhyhorn,Sand Attack
+Rhyhorn,Tail Whip
+Rhyhorn,Fury Attack
+Rhyhorn,Stomp
+Rhyhorn,Rock Throw
+Rhyhorn,Take Down
+Rhyhorn,Rock Slide
+Rhyhorn,Earthquake
+Rhyhorn,Horn Drill
+Rhydon,Counter
+Rhydon,Fury Attack
+Rhydon,Horn Attack
+Rhydon,Sand Attack
+Rhydon,Tail Whip
+Rhydon,Fury Attack
+Rhydon,Stomp
+Rhydon,Rock Throw
+Rhydon,Take Down
+Rhydon,Rock Slide
+Rhydon,Earthquake
+Rhydon,Horn Drill
+Chansey,Growl
+Chansey,Pound
+Chansey,Defense Curl
+Chansey,Tail Whip
+Chansey,Double Slap
+Chansey,Soft-Boiled
+Chansey,Minimize
+Chansey,Take Down
+Chansey,Sing
+Chansey,Egg Bomb
+Chansey,Light Screen
+Chansey,Double-Edge
+Tangela,Absorb
+Tangela,Constrict
+Tangela,Sleep Powder
+Tangela,Confusion
+Tangela,Vine Whip
+Tangela,Poison Powder
+Tangela,Bind
+Tangela,Growth
+Tangela,Stun Spore
+Tangela,Mega Drain
+Tangela,Leech Seed
+Tangela,Slam
+Tangela,Amnesia
+Kangaskhan,Comet Punch
+Kangaskhan,Leer
+Kangaskhan,Tail Whip
+Kangaskhan,Bite
+Kangaskhan,Rage
+Kangaskhan,Mega Punch
+Kangaskhan,Dizzy Punch
+Horsea,Bubble
+Horsea,Smokescreen
+Horsea,Water Gun
+Horsea,Leer
+Horsea,Bubble Beam
+Horsea,Focus Energy
+Horsea,Waterfall
+Horsea,Agility
+Horsea,Hydro Pump
+Seadra,Bubble
+Seadra,Disable
+Seadra,Leer
+Seadra,Smokescreen
+Seadra,Water Gun
+Seadra,Smokescreen
+Seadra,Water Gun
+Seadra,Leer
+Seadra,Bubble Beam
+Seadra,Focus Energy
+Seadra,Waterfall
+Seadra,Agility
+Seadra,Hydro Pump
+Goldeen,Peck
+Goldeen,Tail Whip
+Goldeen,Supersonic
+Goldeen,Quick Attack
+Goldeen,Horn Attack
+Goldeen,Fury Attack
+Goldeen,Waterfall
+Goldeen,Agility
+Goldeen,Horn Drill
+Seaking,Peck
+Seaking,Psybeam
+Seaking,Quick Attack
+Seaking,Skull Bash
+Seaking,Supersonic
+Seaking,Tail Whip
+Seaking,Supersonic
+Seaking,Quick Attack
+Seaking,Horn Attack
+Seaking,Fury Attack
+Seaking,Waterfall
+Seaking,Agility
+Seaking,Horn Drill
+Staryu,Harden
+Staryu,Tackle
+Staryu,Psywave
+Staryu,Water Gun
+Staryu,Swift
+Staryu,Minimize
+Staryu,Confuse Ray
+Staryu,Bubble Beam
+Staryu,Light Screen
+Staryu,Psychic
+Staryu,Recover
+Staryu,Hydro Pump
+Starmie,Harden
+Starmie,Psywave
+Starmie,Tackle
+Starmie,Water Gun
+Mr. Mime,Barrier
+Mr. Mime,Confusion
+Mr. Mime,Pound
+Mr. Mime,Meditate
+Mr. Mime,Double Slap
+Mr. Mime,Mimic
+Mr. Mime,Psywave
+Mr. Mime,Psybeam
+Mr. Mime,Light Screen
+Mr. Mime,Reflect
+Mr. Mime,Substitute
+Mr. Mime,Psychic
+Scyther,Leer
+Scyther,Quick Attack
+Scyther,Focus Energy
+Scyther,Double Team
+Scyther,Wing Attack
+Scyther,Agility
+Scyther,Slash
+Scyther,Razor Wind
+Scyther,Swords Dance
+Jynx,Pound
+Jynx,Lick
+Jynx,Confusion
+Jynx,Screech
+Jynx,Double Slap
+Jynx,Ice Punch
+Jynx,Body Slam
+Jynx,Lovely Kiss
+Jynx,Psychic
+Jynx,Blizzard
+Electabuzz,Leer
+Electabuzz,Thunder Shock
+Electabuzz,Quick Attack
+Electabuzz,Thunder Wave
+Electabuzz,Swift
+Electabuzz,Low Kick
+Electabuzz,Light Screen
+Electabuzz,Thunder Punch
+Electabuzz,Screech
+Electabuzz,Thunderbolt
+Electabuzz,Thunder
+Magmar,Ember
+Magmar,Leer
+Magmar,Smog
+Magmar,Smokescreen
+Magmar,Low Kick
+Magmar,Fire Spin
+Magmar,Fire Punch
+Magmar,Confuse Ray
+Magmar,Flamethrower
+Magmar,Fire Blast
+Pinsir,Focus Energy
+Pinsir,Vice Grip
+Pinsir,Bind
+Pinsir,Seismic Toss
+Pinsir,Harden
+Pinsir,Submission
+Pinsir,Swords Dance
+Pinsir,Thrash
+Pinsir,Guillotine
+Tauros,Tackle
+Tauros,Tail Whip
+Tauros,Rage
+Tauros,Horn Attack
+Tauros,Leer
+Tauros,Rest
+Tauros,Take Down
+Tauros,Focus Energy
+Tauros,Thrash
+Tauros,Double-Edge
+Magikarp,Splash
+Magikarp,Tackle
+Gyarados,Bind
+Gyarados,Bite
+Gyarados,Dragon Rage
+Gyarados,Leer
+Gyarados,Thrash
+Gyarados,Leer
+Gyarados,Dragon Rage
+Gyarados,Bind
+Gyarados,Rage
+Gyarados,Waterfall
+Gyarados,Hydro Pump
+Gyarados,Hyper Beam
+Lapras,Sing
+Lapras,Water Gun
+Lapras,Growl
+Lapras,Mist
+Lapras,Confuse Ray
+Lapras,Body Slam
+Lapras,Ice Beam
+Lapras,Surf
+Lapras,Blizzard
+Lapras,Hydro Pump
+Ditto,Transform
+Eevee,Growl
+Eevee,Tackle
+Eevee,Tail Whip
+Eevee,Quick Attack
+Eevee,Double Kick
+Eevee,Sand Attack
+Eevee,Bite
+Eevee,Swift
+Eevee,Take Down
+Eevee,Double-Edge
+Vaporeon,Growl
+Vaporeon,Sand Attack
+Vaporeon,Tackle
+Vaporeon,Tail Whip
+Vaporeon,Water Gun
+Vaporeon,Tail Whip
+Vaporeon,Quick Attack
+Vaporeon,Double Kick
+Vaporeon,Sand Attack
+Vaporeon,Aurora Beam
+Vaporeon,Haze
+Vaporeon,Acid Armor
+Vaporeon,Hydro Pump
+Jolteon,Growl
+Jolteon,Sand Attack
+Jolteon,Tackle
+Jolteon,Tail Whip
+Jolteon,Thunder Shock
+Jolteon,Tail Whip
+Jolteon,Quick Attack
+Jolteon,Double Kick
+Jolteon,Sand Attack
+Jolteon,Pin Missile
+Jolteon,Thunder Wave
+Jolteon,Agility
+Jolteon,Thunder
+Flareon,Ember
+Flareon,Growl
+Flareon,Sand Attack
+Flareon,Tackle
+Flareon,Tail Whip
+Flareon,Tail Whip
+Flareon,Quick Attack
+Flareon,Double Kick
+Flareon,Sand Attack
+Flareon,Fire Spin
+Flareon,Smog
+Flareon,Focus Energy
+Porygon,Tackle
+Porygon,Sharpen
+Porygon,Psybeam
+Porygon,Agility
+Porygon,Barrier
+Porygon,Tri Attack
+Porygon,Thunder Wave
+Porygon,Conversion
+Porygon,Recover
+Porygon,Hyper Beam
+Omanyte,Constrict
+Omanyte,Withdraw
+Omanyte,Leer
+Omanyte,Water Gun
+Omanyte,Bite
+Omanyte,Rock Throw
+Omanyte,Rock Slide
+Omanyte,Hydro Pump
+Omastar,Bide
+Omastar,Constrict
+Omastar,Leer
+Omastar,Spike Cannon
+Omastar,Supersonic
+Omastar,Water Gun
+Omastar,Withdraw
+Omastar,Withdraw
+Omastar,Leer
+Omastar,Water Gun
+Omastar,Bite
+Omastar,Rock Throw
+Omastar,Rock Slide
+Omastar,Hydro Pump
+Kabuto,Scratch
+Kabuto,Harden
+Kabuto,Leer
+Kabuto,Absorb
+Kabuto,Rock Throw
+Kabuto,Sand Attack
+Kabuto,Rock Slide
+Kabuto,Leech Life
+Kabutops,Absorb
+Kabutops,Confuse Ray
+Kabutops,Harden
+Kabutops,Leer
+Kabutops,Scratch
+Kabutops,Screech
+Kabutops,Slash
+Kabutops,Harden
+Kabutops,Leer
+Kabutops,Absorb
+Kabutops,Rock Throw
+Kabutops,Sand Attack
+Kabutops,Rock Slide
+Kabutops,Leech Life
+Kabutops,Swords Dance
+Aerodactyl,Bite
+Aerodactyl,Wing Attack
+Aerodactyl,Roar
+Aerodactyl,Supersonic
+Aerodactyl,Rock Throw
+Aerodactyl,Agility
+Aerodactyl,Rock Slide
+Aerodactyl,Fly
+Aerodactyl,Take Down
+Aerodactyl,Hyper Beam
+Snorlax,Tackle
+Snorlax,Defense Curl
+Snorlax,Lick
+Snorlax,Headbutt
+Snorlax,Rest
+Snorlax,Screech
+Snorlax,Amnesia
+Snorlax,Body Slam
+Articuno,Gust
+Articuno,Mist
+Articuno,Leer
+Articuno,Ice Beam
+Articuno,Agility
+Articuno,Reflect
+Articuno,Blizzard
+Articuno,Sky Attack
+Zapdos,Peck
+Zapdos,Thunder Shock
+Zapdos,Thunder Wave
+Zapdos,Leer
+Zapdos,Drill Peck
+Zapdos,Thunderbolt
+Zapdos,Agility
+Zapdos,Light Screen
+Zapdos,Thunder
+Zapdos,Sky Attack
+Moltres,Ember
+Moltres,Wing Attack
+Moltres,Fire Spin
+Moltres,Leer
+Moltres,Flamethrower
+Moltres,Agility
+Moltres,Solar Beam
+Moltres,Sky Attack
+Dratini,Leer
+Dratini,Wrap
+Dratini,Thunder Wave
+Dratini,Dragon Rage
+Dratini,Agility
+Dratini,Slam
+Dratini,Hyper Beam
+Dragonair,Dragon Rage
+Dragonair,Leer
+Dragonair,Thunder Wave
+Dragonair,Wrap
+Dragonair,Thunder Wave
+Dragonair,Dragon Rage
+Dragonair,Agility
+Dragonair,Slam
+Dragonair,Hyper Beam
+Dragonite,Dragon Rage
+Dragonite,Fire Punch
+Dragonite,Leer
+Dragonite,Mist
+Dragonite,Thunder Punch
+Dragonite,Thunder Wave
+Dragonite,Wing Attack
+Dragonite,Wrap
+Dragonite,Thunder Wave
+Dragonite,Dragon Rage
+Dragonite,Agility
+Dragonite,Slam
+Dragonite,Hyper Beam
+Mewtwo,Confuse Ray
+Mewtwo,Confusion
+Mewtwo,Disable
+Mewtwo,Psywave
+Mewtwo,Teleport
+Mewtwo,Mist
+Mewtwo,Psybeam
+Mewtwo,Swift
+Mewtwo,Amnesia
+Mewtwo,Recover
+Mewtwo,Psychic
+Mewtwo,Barrier
+Mewtwo,Agility
+Mew,Confusion
+Mew,Mimic
+Mew,Pound
+Mew,Swift
+Mew,Amnesia
+Mew,Psywave
+Mew,Barrier
+Mew,Mega Punch
+Mew,Metronome
+Mew,Psychic
+Mew,Transform

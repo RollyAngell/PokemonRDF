@@ -1,0 +1,1795 @@
+﻿pokemon,movement
+Bulbasaur,Headbutt
+Bulbasaur,Rest
+Bulbasaur,Light Screen
+Bulbasaur,Substitute
+Bulbasaur,Reflect
+Bulbasaur,Toxic
+Bulbasaur,Solar Beam
+Bulbasaur,Mega Drain
+Ivysaur,Headbutt
+Ivysaur,Rest
+Ivysaur,Light Screen
+Ivysaur,Substitute
+Ivysaur,Reflect
+Ivysaur,Toxic
+Ivysaur,Solar Beam
+Ivysaur,Mega Drain
+Venusaur,Headbutt
+Venusaur,Rest
+Venusaur,Light Screen
+Venusaur,Substitute
+Venusaur,Reflect
+Venusaur,Toxic
+Venusaur,Earthquake
+Venusaur,Solar Beam
+Venusaur,Hyper Beam
+Venusaur,Mega Drain
+Charmander,Headbutt
+Charmander,Rest
+Charmander,Substitute
+Charmander,Reflect
+Charmander,Dig
+Charmander,Seismic Toss
+Charmander,Rock Slide
+Charmander,Thunder Punch
+Charmander,Toxic
+Charmander,Fire Punch
+Charmander,Flamethrower
+Charmander,Fire Blast
+Charmeleon,Headbutt
+Charmeleon,Rest
+Charmeleon,Substitute
+Charmeleon,Reflect
+Charmeleon,Dig
+Charmeleon,Seismic Toss
+Charmeleon,Rock Slide
+Charmeleon,Thunder Punch
+Charmeleon,Toxic
+Charmeleon,Fire Punch
+Charmeleon,Flamethrower
+Charmeleon,Fire Blast
+Charizard,Headbutt
+Charizard,Rest
+Charizard,Substitute
+Charizard,Reflect
+Charizard,Dig
+Charizard,Fly
+Charizard,Seismic Toss
+Charizard,Rock Slide
+Charizard,Thunder Punch
+Charizard,Toxic
+Charizard,Fire Punch
+Charizard,Flamethrower
+Charizard,Earthquake
+Charizard,Solar Beam
+Charizard,Fire Blast
+Charizard,Hyper Beam
+Squirtle,Headbutt
+Squirtle,Rest
+Squirtle,Substitute
+Squirtle,Reflect
+Squirtle,Dig
+Squirtle,Seismic Toss
+Squirtle,Rock Slide
+Squirtle,Waterfall
+Squirtle,Toxic
+Squirtle,Ice Punch
+Squirtle,Surf
+Squirtle,Blizzard
+Squirtle,Ice Beam
+Wartortle,Headbutt
+Wartortle,Rest
+Wartortle,Substitute
+Wartortle,Reflect
+Wartortle,Dig
+Wartortle,Seismic Toss
+Wartortle,Rock Slide
+Wartortle,Waterfall
+Wartortle,Toxic
+Wartortle,Ice Punch
+Wartortle,Surf
+Wartortle,Blizzard
+Wartortle,Ice Beam
+Blastoise,Headbutt
+Blastoise,Rest
+Blastoise,Substitute
+Blastoise,Reflect
+Blastoise,Dig
+Blastoise,Seismic Toss
+Blastoise,Rock Slide
+Blastoise,Waterfall
+Blastoise,Toxic
+Blastoise,Ice Punch
+Blastoise,Earthquake
+Blastoise,Surf
+Blastoise,Hyper Beam
+Blastoise,Blizzard
+Blastoise,Ice Beam
+Butterfree,Headbutt
+Butterfree,Teleport
+Butterfree,Rest
+Butterfree,Substitute
+Butterfree,Reflect
+Butterfree,Toxic
+Butterfree,Psychic
+Butterfree,Solar Beam
+Butterfree,Hyper Beam
+Butterfree,Mega Drain
+Butterfree,Dream Eater
+Beedrill,Headbutt
+Beedrill,Rest
+Beedrill,Substitute
+Beedrill,Reflect
+Beedrill,Toxic
+Beedrill,Solar Beam
+Beedrill,Hyper Beam
+Beedrill,Mega Drain
+Pidgey,Headbutt
+Pidgey,Rest
+Pidgey,Substitute
+Pidgey,Reflect
+Pidgey,Fly
+Pidgey,Toxic
+Pidgeotto,Headbutt
+Pidgeotto,Rest
+Pidgeotto,Substitute
+Pidgeotto,Reflect
+Pidgeotto,Fly
+Pidgeotto,Toxic
+Pidgeot,Headbutt
+Pidgeot,Rest
+Pidgeot,Substitute
+Pidgeot,Reflect
+Pidgeot,Fly
+Pidgeot,Toxic
+Pidgeot,Hyper Beam
+Rattata,Headbutt
+Rattata,Rest
+Rattata,Substitute
+Rattata,Dig
+Rattata,Thunder Wave
+Rattata,Toxic
+Rattata,Thunderbolt
+Rattata,Thunder
+Rattata,Blizzard
+Rattata,Ice Beam
+Raticate,Headbutt
+Raticate,Rest
+Raticate,Substitute
+Raticate,Dig
+Raticate,Thunder Wave
+Raticate,Toxic
+Raticate,Thunderbolt
+Raticate,Thunder
+Raticate,Hyper Beam
+Raticate,Blizzard
+Raticate,Ice Beam
+Spearow,Headbutt
+Spearow,Rest
+Spearow,Substitute
+Spearow,Fly
+Spearow,Toxic
+Spearow,Tri Attack
+Fearow,Headbutt
+Fearow,Rest
+Fearow,Substitute
+Fearow,Fly
+Fearow,Toxic
+Fearow,Tri Attack
+Fearow,Hyper Beam
+Ekans,Headbutt
+Ekans,Rest
+Ekans,Substitute
+Ekans,Dig
+Ekans,Rock Slide
+Ekans,Toxic
+Ekans,Earthquake
+Ekans,Mega Drain
+Arbok,Headbutt
+Arbok,Rest
+Arbok,Substitute
+Arbok,Dig
+Arbok,Rock Slide
+Arbok,Toxic
+Arbok,Earthquake
+Arbok,Hyper Beam
+Arbok,Mega Drain
+Pikachu,Headbutt
+Pikachu,Rest
+Pikachu,Light Screen
+Pikachu,Substitute
+Pikachu,Reflect
+Pikachu,Dig
+Pikachu,Seismic Toss
+Pikachu,Thunder Wave
+Pikachu,Thunder Punch
+Pikachu,Toxic
+Pikachu,Thunderbolt
+Pikachu,Thunder
+Pikachu,Pay Day
+Raichu,Headbutt
+Raichu,Rest
+Raichu,Light Screen
+Raichu,Substitute
+Raichu,Reflect
+Raichu,Dig
+Raichu,Seismic Toss
+Raichu,Thunder Wave
+Raichu,Thunder Punch
+Raichu,Toxic
+Raichu,Thunderbolt
+Raichu,Thunder
+Raichu,Hyper Beam
+Raichu,Pay Day
+Sandshrew,Headbutt
+Sandshrew,Rest
+Sandshrew,Substitute
+Sandshrew,Dig
+Sandshrew,Seismic Toss
+Sandshrew,Rock Slide
+Sandshrew,Toxic
+Sandshrew,Earthquake
+Sandslash,Headbutt
+Sandslash,Rest
+Sandslash,Substitute
+Sandslash,Dig
+Sandslash,Seismic Toss
+Sandslash,Rock Slide
+Sandslash,Toxic
+Sandslash,Earthquake
+Sandslash,Hyper Beam
+Nidoran♀,Headbutt
+Nidoran♀,Rest
+Nidoran♀,Substitute
+Nidoran♀,Reflect
+Nidoran♀,Dig
+Nidoran♀,Toxic
+Nidoran♀,Thunderbolt
+Nidoran♀,Thunder
+Nidoran♀,Blizzard
+Nidoran♀,Ice Beam
+Nidorina,Headbutt
+Nidorina,Rest
+Nidorina,Substitute
+Nidorina,Reflect
+Nidorina,Dig
+Nidorina,Toxic
+Nidorina,Thunderbolt
+Nidorina,Thunder
+Nidorina,Blizzard
+Nidorina,Ice Beam
+Nidoqueen,Headbutt
+Nidoqueen,Rest
+Nidoqueen,Substitute
+Nidoqueen,Reflect
+Nidoqueen,Dig
+Nidoqueen,Seismic Toss
+Nidoqueen,Rock Slide
+Nidoqueen,Thunder Punch
+Nidoqueen,Toxic
+Nidoqueen,Fire Punch
+Nidoqueen,Ice Punch
+Nidoqueen,Thunderbolt
+Nidoqueen,Flamethrower
+Nidoqueen,Thunder
+Nidoqueen,Earthquake
+Nidoqueen,Fire Blast
+Nidoqueen,Surf
+Nidoqueen,Hyper Beam
+Nidoqueen,Blizzard
+Nidoqueen,Ice Beam
+Nidoqueen,Pay Day
+Nidoran♂,Headbutt
+Nidoran♂,Rest
+Nidoran♂,Substitute
+Nidoran♂,Reflect
+Nidoran♂,Dig
+Nidoran♂,Toxic
+Nidoran♂,Thunderbolt
+Nidoran♂,Thunder
+Nidoran♂,Blizzard
+Nidoran♂,Ice Beam
+Nidorino,Headbutt
+Nidorino,Rest
+Nidorino,Substitute
+Nidorino,Reflect
+Nidorino,Dig
+Nidorino,Toxic
+Nidorino,Thunderbolt
+Nidorino,Thunder
+Nidorino,Blizzard
+Nidorino,Ice Beam
+Nidoking,Headbutt
+Nidoking,Rest
+Nidoking,Substitute
+Nidoking,Reflect
+Nidoking,Dig
+Nidoking,Seismic Toss
+Nidoking,Rock Slide
+Nidoking,Thunder Punch
+Nidoking,Toxic
+Nidoking,Fire Punch
+Nidoking,Ice Punch
+Nidoking,Thunderbolt
+Nidoking,Flamethrower
+Nidoking,Thunder
+Nidoking,Earthquake
+Nidoking,Fire Blast
+Nidoking,Surf
+Nidoking,Hyper Beam
+Nidoking,Blizzard
+Nidoking,Ice Beam
+Nidoking,Pay Day
+Clefairy,Headbutt
+Clefairy,Teleport
+Clefairy,Rest
+Clefairy,Light Screen
+Clefairy,Substitute
+Clefairy,Reflect
+Clefairy,Dig
+Clefairy,Seismic Toss
+Clefairy,Thunder Wave
+Clefairy,Thunder Punch
+Clefairy,Toxic
+Clefairy,Tri Attack
+Clefairy,Fire Punch
+Clefairy,Ice Punch
+Clefairy,Thunderbolt
+Clefairy,Flamethrower
+Clefairy,Thunder
+Clefairy,Psychic
+Clefairy,Solar Beam
+Clefairy,Fire Blast
+Clefairy,Blizzard
+Clefairy,Ice Beam
+Clefairy,Dream Eater
+Clefable,Headbutt
+Clefable,Teleport
+Clefable,Rest
+Clefable,Light Screen
+Clefable,Substitute
+Clefable,Reflect
+Clefable,Dig
+Clefable,Seismic Toss
+Clefable,Thunder Wave
+Clefable,Thunder Punch
+Clefable,Toxic
+Clefable,Tri Attack
+Clefable,Fire Punch
+Clefable,Ice Punch
+Clefable,Thunderbolt
+Clefable,Flamethrower
+Clefable,Thunder
+Clefable,Psychic
+Clefable,Solar Beam
+Clefable,Fire Blast
+Clefable,Hyper Beam
+Clefable,Blizzard
+Clefable,Ice Beam
+Clefable,Dream Eater
+Vulpix,Headbutt
+Vulpix,Rest
+Vulpix,Substitute
+Vulpix,Reflect
+Vulpix,Dig
+Vulpix,Toxic
+Vulpix,Flamethrower
+Vulpix,Fire Blast
+Ninetales,Headbutt
+Ninetales,Rest
+Ninetales,Substitute
+Ninetales,Reflect
+Ninetales,Dig
+Ninetales,Toxic
+Ninetales,Flamethrower
+Ninetales,Solar Beam
+Ninetales,Fire Blast
+Ninetales,Hyper Beam
+Ninetales,Dream Eater
+Jigglypuff,Headbutt
+Jigglypuff,Teleport
+Jigglypuff,Rest
+Jigglypuff,Light Screen
+Jigglypuff,Substitute
+Jigglypuff,Reflect
+Jigglypuff,Dig
+Jigglypuff,Seismic Toss
+Jigglypuff,Thunder Wave
+Jigglypuff,Thunder Punch
+Jigglypuff,Toxic
+Jigglypuff,Tri Attack
+Jigglypuff,Fire Punch
+Jigglypuff,Ice Punch
+Jigglypuff,Thunderbolt
+Jigglypuff,Flamethrower
+Jigglypuff,Thunder
+Jigglypuff,Psychic
+Jigglypuff,Solar Beam
+Jigglypuff,Fire Blast
+Jigglypuff,Blizzard
+Jigglypuff,Ice Beam
+Jigglypuff,Dream Eater
+Wigglytuff,Headbutt
+Wigglytuff,Teleport
+Wigglytuff,Rest
+Wigglytuff,Light Screen
+Wigglytuff,Substitute
+Wigglytuff,Reflect
+Wigglytuff,Dig
+Wigglytuff,Seismic Toss
+Wigglytuff,Thunder Wave
+Wigglytuff,Thunder Punch
+Wigglytuff,Toxic
+Wigglytuff,Tri Attack
+Wigglytuff,Fire Punch
+Wigglytuff,Ice Punch
+Wigglytuff,Thunderbolt
+Wigglytuff,Flamethrower
+Wigglytuff,Thunder
+Wigglytuff,Psychic
+Wigglytuff,Solar Beam
+Wigglytuff,Fire Blast
+Wigglytuff,Hyper Beam
+Wigglytuff,Blizzard
+Wigglytuff,Ice Beam
+Wigglytuff,Dream Eater
+Zubat,Headbutt
+Zubat,Rest
+Zubat,Substitute
+Zubat,Fly
+Zubat,Toxic
+Zubat,Mega Drain
+Golbat,Headbutt
+Golbat,Rest
+Golbat,Substitute
+Golbat,Fly
+Golbat,Toxic
+Golbat,Hyper Beam
+Golbat,Mega Drain
+Oddish,Headbutt
+Oddish,Rest
+Oddish,Substitute
+Oddish,Reflect
+Oddish,Toxic
+Oddish,Solar Beam
+Oddish,Mega Drain
+Gloom,Headbutt
+Gloom,Rest
+Gloom,Substitute
+Gloom,Reflect
+Gloom,Toxic
+Gloom,Solar Beam
+Gloom,Mega Drain
+Vileplume,Headbutt
+Vileplume,Rest
+Vileplume,Substitute
+Vileplume,Reflect
+Vileplume,Toxic
+Vileplume,Solar Beam
+Vileplume,Hyper Beam
+Vileplume,Mega Drain
+Paras,Headbutt
+Paras,Rest
+Paras,Light Screen
+Paras,Substitute
+Paras,Reflect
+Paras,Dig
+Paras,Toxic
+Paras,Solar Beam
+Paras,Mega Drain
+Parasect,Headbutt
+Parasect,Rest
+Parasect,Light Screen
+Parasect,Substitute
+Parasect,Reflect
+Parasect,Dig
+Parasect,Toxic
+Parasect,Solar Beam
+Parasect,Hyper Beam
+Parasect,Mega Drain
+Venonat,Headbutt
+Venonat,Rest
+Venonat,Substitute
+Venonat,Reflect
+Venonat,Toxic
+Venonat,Psychic
+Venonat,Solar Beam
+Venonat,Mega Drain
+Venomoth,Headbutt
+Venomoth,Teleport
+Venomoth,Rest
+Venomoth,Substitute
+Venomoth,Reflect
+Venomoth,Toxic
+Venomoth,Psychic
+Venomoth,Solar Beam
+Venomoth,Hyper Beam
+Venomoth,Mega Drain
+Venomoth,Dream Eater
+Diglett,Headbutt
+Diglett,Rest
+Diglett,Substitute
+Diglett,Dig
+Diglett,Rock Slide
+Diglett,Toxic
+Diglett,Earthquake
+Dugtrio,Headbutt
+Dugtrio,Rest
+Dugtrio,Substitute
+Dugtrio,Dig
+Dugtrio,Rock Slide
+Dugtrio,Toxic
+Dugtrio,Tri Attack
+Dugtrio,Earthquake
+Dugtrio,Hyper Beam
+Meowth,Headbutt
+Meowth,Rest
+Meowth,Substitute
+Meowth,Dig
+Meowth,Toxic
+Meowth,Thunderbolt
+Meowth,Thunder
+Meowth,Pay Day
+Persian,Headbutt
+Persian,Rest
+Persian,Substitute
+Persian,Dig
+Persian,Toxic
+Persian,Thunderbolt
+Persian,Thunder
+Persian,Hyper Beam
+Persian,Pay Day
+Persian,Dream Eater
+Psyduck,Headbutt
+Psyduck,Rest
+Psyduck,Light Screen
+Psyduck,Substitute
+Psyduck,Dig
+Psyduck,Seismic Toss
+Psyduck,Waterfall
+Psyduck,Toxic
+Psyduck,Ice Punch
+Psyduck,Psychic
+Psyduck,Surf
+Psyduck,Blizzard
+Psyduck,Ice Beam
+Psyduck,Pay Day
+Golduck,Headbutt
+Golduck,Rest
+Golduck,Light Screen
+Golduck,Substitute
+Golduck,Dig
+Golduck,Seismic Toss
+Golduck,Waterfall
+Golduck,Toxic
+Golduck,Ice Punch
+Golduck,Psychic
+Golduck,Surf
+Golduck,Hyper Beam
+Golduck,Blizzard
+Golduck,Ice Beam
+Golduck,Pay Day
+Mankey,Headbutt
+Mankey,Rest
+Mankey,Substitute
+Mankey,Dig
+Mankey,Seismic Toss
+Mankey,Rock Slide
+Mankey,Thunder Punch
+Mankey,Toxic
+Mankey,Fire Punch
+Mankey,Ice Punch
+Mankey,Thunderbolt
+Mankey,Thunder
+Mankey,Earthquake
+Mankey,Pay Day
+Primeape,Headbutt
+Primeape,Rest
+Primeape,Substitute
+Primeape,Dig
+Primeape,Seismic Toss
+Primeape,Rock Slide
+Primeape,Thunder Punch
+Primeape,Toxic
+Primeape,Fire Punch
+Primeape,Ice Punch
+Primeape,Thunderbolt
+Primeape,Thunder
+Primeape,Earthquake
+Primeape,Hyper Beam
+Primeape,Pay Day
+Growlithe,Headbutt
+Growlithe,Rest
+Growlithe,Substitute
+Growlithe,Reflect
+Growlithe,Dig
+Growlithe,Toxic
+Growlithe,Flamethrower
+Growlithe,Fire Blast
+Arcanine,Headbutt
+Arcanine,Teleport
+Arcanine,Rest
+Arcanine,Substitute
+Arcanine,Reflect
+Arcanine,Dig
+Arcanine,Toxic
+Arcanine,Flamethrower
+Arcanine,Solar Beam
+Arcanine,Fire Blast
+Arcanine,Hyper Beam
+Poliwag,Headbutt
+Poliwag,Rest
+Poliwag,Substitute
+Poliwag,Dig
+Poliwag,Waterfall
+Poliwag,Toxic
+Poliwag,Psychic
+Poliwag,Surf
+Poliwag,Blizzard
+Poliwag,Ice Beam
+Poliwhirl,Headbutt
+Poliwhirl,Rest
+Poliwhirl,Substitute
+Poliwhirl,Dig
+Poliwhirl,Seismic Toss
+Poliwhirl,Waterfall
+Poliwhirl,Toxic
+Poliwhirl,Ice Punch
+Poliwhirl,Psychic
+Poliwhirl,Earthquake
+Poliwhirl,Surf
+Poliwhirl,Blizzard
+Poliwhirl,Ice Beam
+Poliwrath,Headbutt
+Poliwrath,Rest
+Poliwrath,Substitute
+Poliwrath,Dig
+Poliwrath,Seismic Toss
+Poliwrath,Rock Slide
+Poliwrath,Waterfall
+Poliwrath,Toxic
+Poliwrath,Ice Punch
+Poliwrath,Psychic
+Poliwrath,Earthquake
+Poliwrath,Surf
+Poliwrath,Hyper Beam
+Poliwrath,Blizzard
+Poliwrath,Ice Beam
+Abra,Headbutt
+Abra,Teleport
+Abra,Rest
+Abra,Light Screen
+Abra,Substitute
+Abra,Reflect
+Abra,Seismic Toss
+Abra,Thunder Wave
+Abra,Thunder Punch
+Abra,Toxic
+Abra,Tri Attack
+Abra,Fire Punch
+Abra,Ice Punch
+Abra,Psychic
+Abra,Dream Eater
+Kadabra,Headbutt
+Kadabra,Teleport
+Kadabra,Rest
+Kadabra,Light Screen
+Kadabra,Substitute
+Kadabra,Reflect
+Kadabra,Dig
+Kadabra,Seismic Toss
+Kadabra,Thunder Wave
+Kadabra,Thunder Punch
+Kadabra,Toxic
+Kadabra,Tri Attack
+Kadabra,Fire Punch
+Kadabra,Ice Punch
+Kadabra,Psychic
+Kadabra,Dream Eater
+Alakazam,Headbutt
+Alakazam,Teleport
+Alakazam,Rest
+Alakazam,Light Screen
+Alakazam,Substitute
+Alakazam,Reflect
+Alakazam,Dig
+Alakazam,Seismic Toss
+Alakazam,Thunder Wave
+Alakazam,Thunder Punch
+Alakazam,Toxic
+Alakazam,Tri Attack
+Alakazam,Fire Punch
+Alakazam,Ice Punch
+Alakazam,Psychic
+Alakazam,Hyper Beam
+Alakazam,Dream Eater
+Machop,Headbutt
+Machop,Rest
+Machop,Light Screen
+Machop,Substitute
+Machop,Dig
+Machop,Seismic Toss
+Machop,Rock Slide
+Machop,Thunder Punch
+Machop,Toxic
+Machop,Fire Punch
+Machop,Ice Punch
+Machop,Flamethrower
+Machop,Earthquake
+Machop,Fire Blast
+Machoke,Headbutt
+Machoke,Rest
+Machoke,Light Screen
+Machoke,Substitute
+Machoke,Dig
+Machoke,Seismic Toss
+Machoke,Rock Slide
+Machoke,Thunder Punch
+Machoke,Toxic
+Machoke,Fire Punch
+Machoke,Ice Punch
+Machoke,Flamethrower
+Machoke,Earthquake
+Machoke,Fire Blast
+Machamp,Headbutt
+Machamp,Rest
+Machamp,Light Screen
+Machamp,Substitute
+Machamp,Dig
+Machamp,Seismic Toss
+Machamp,Rock Slide
+Machamp,Thunder Punch
+Machamp,Toxic
+Machamp,Fire Punch
+Machamp,Ice Punch
+Machamp,Flamethrower
+Machamp,Earthquake
+Machamp,Fire Blast
+Machamp,Hyper Beam
+Bellsprout,Headbutt
+Bellsprout,Rest
+Bellsprout,Substitute
+Bellsprout,Reflect
+Bellsprout,Toxic
+Bellsprout,Solar Beam
+Bellsprout,Mega Drain
+Weepinbell,Headbutt
+Weepinbell,Rest
+Weepinbell,Substitute
+Weepinbell,Reflect
+Weepinbell,Toxic
+Weepinbell,Solar Beam
+Weepinbell,Mega Drain
+Victreebel,Headbutt
+Victreebel,Rest
+Victreebel,Substitute
+Victreebel,Reflect
+Victreebel,Toxic
+Victreebel,Solar Beam
+Victreebel,Hyper Beam
+Victreebel,Mega Drain
+Tentacool,Headbutt
+Tentacool,Rest
+Tentacool,Substitute
+Tentacool,Reflect
+Tentacool,Waterfall
+Tentacool,Toxic
+Tentacool,Surf
+Tentacool,Blizzard
+Tentacool,Mega Drain
+Tentacool,Ice Beam
+Tentacruel,Headbutt
+Tentacruel,Rest
+Tentacruel,Substitute
+Tentacruel,Reflect
+Tentacruel,Waterfall
+Tentacruel,Toxic
+Tentacruel,Surf
+Tentacruel,Hyper Beam
+Tentacruel,Blizzard
+Tentacruel,Mega Drain
+Tentacruel,Ice Beam
+Geodude,Headbutt
+Geodude,Rest
+Geodude,Substitute
+Geodude,Dig
+Geodude,Seismic Toss
+Geodude,Rock Slide
+Geodude,Thunder Punch
+Geodude,Toxic
+Geodude,Fire Punch
+Geodude,Flamethrower
+Geodude,Earthquake
+Geodude,Self-Destruct
+Geodude,Fire Blast
+Graveler,Headbutt
+Graveler,Rest
+Graveler,Substitute
+Graveler,Dig
+Graveler,Seismic Toss
+Graveler,Rock Slide
+Graveler,Thunder Punch
+Graveler,Toxic
+Graveler,Fire Punch
+Graveler,Flamethrower
+Graveler,Earthquake
+Graveler,Self-Destruct
+Graveler,Fire Blast
+Golem,Headbutt
+Golem,Rest
+Golem,Substitute
+Golem,Dig
+Golem,Seismic Toss
+Golem,Rock Slide
+Golem,Thunder Punch
+Golem,Toxic
+Golem,Fire Punch
+Golem,Flamethrower
+Golem,Earthquake
+Golem,Self-Destruct
+Golem,Fire Blast
+Golem,Hyper Beam
+Ponyta,Headbutt
+Ponyta,Rest
+Ponyta,Substitute
+Ponyta,Reflect
+Ponyta,Toxic
+Ponyta,Flamethrower
+Ponyta,Solar Beam
+Ponyta,Fire Blast
+Rapidash,Headbutt
+Rapidash,Rest
+Rapidash,Substitute
+Rapidash,Reflect
+Rapidash,Toxic
+Rapidash,Flamethrower
+Rapidash,Solar Beam
+Rapidash,Fire Blast
+Rapidash,Hyper Beam
+Slowpoke,Headbutt
+Slowpoke,Teleport
+Slowpoke,Rest
+Slowpoke,Light Screen
+Slowpoke,Substitute
+Slowpoke,Reflect
+Slowpoke,Dig
+Slowpoke,Thunder Wave
+Slowpoke,Toxic
+Slowpoke,Tri Attack
+Slowpoke,Flamethrower
+Slowpoke,Psychic
+Slowpoke,Earthquake
+Slowpoke,Fire Blast
+Slowpoke,Surf
+Slowpoke,Blizzard
+Slowpoke,Ice Beam
+Slowpoke,Pay Day
+Slowpoke,Dream Eater
+Slowbro,Headbutt
+Slowbro,Teleport
+Slowbro,Rest
+Slowbro,Light Screen
+Slowbro,Substitute
+Slowbro,Reflect
+Slowbro,Dig
+Slowbro,Seismic Toss
+Slowbro,Thunder Wave
+Slowbro,Toxic
+Slowbro,Tri Attack
+Slowbro,Ice Punch
+Slowbro,Flamethrower
+Slowbro,Psychic
+Slowbro,Earthquake
+Slowbro,Fire Blast
+Slowbro,Surf
+Slowbro,Hyper Beam
+Slowbro,Blizzard
+Slowbro,Ice Beam
+Slowbro,Pay Day
+Slowbro,Dream Eater
+Magnemite,Headbutt
+Magnemite,Teleport
+Magnemite,Rest
+Magnemite,Light Screen
+Magnemite,Substitute
+Magnemite,Reflect
+Magnemite,Thunder Wave
+Magnemite,Toxic
+Magnemite,Thunderbolt
+Magnemite,Thunder
+Magneton,Headbutt
+Magneton,Teleport
+Magneton,Rest
+Magneton,Light Screen
+Magneton,Substitute
+Magneton,Reflect
+Magneton,Thunder Wave
+Magneton,Toxic
+Magneton,Tri Attack
+Magneton,Thunderbolt
+Magneton,Thunder
+Magneton,Hyper Beam
+Farfetch'd,Headbutt
+Farfetch'd,Rest
+Farfetch'd,Substitute
+Farfetch'd,Reflect
+Farfetch'd,Fly
+Farfetch'd,Toxic
+Doduo,Headbutt
+Doduo,Rest
+Doduo,Substitute
+Doduo,Reflect
+Doduo,Fly
+Doduo,Toxic
+Dodrio,Headbutt
+Dodrio,Rest
+Dodrio,Substitute
+Dodrio,Reflect
+Dodrio,Fly
+Dodrio,Toxic
+Dodrio,Tri Attack
+Dodrio,Hyper Beam
+Seel,Headbutt
+Seel,Rest
+Seel,Substitute
+Seel,Waterfall
+Seel,Toxic
+Seel,Surf
+Seel,Blizzard
+Seel,Ice Beam
+Seel,Pay Day
+Dewgong,Headbutt
+Dewgong,Rest
+Dewgong,Substitute
+Dewgong,Waterfall
+Dewgong,Toxic
+Dewgong,Surf
+Dewgong,Hyper Beam
+Dewgong,Blizzard
+Dewgong,Ice Beam
+Dewgong,Pay Day
+Grimer,Headbutt
+Grimer,Rest
+Grimer,Substitute
+Grimer,Dig
+Grimer,Rock Slide
+Grimer,Thunder Punch
+Grimer,Toxic
+Grimer,Fire Punch
+Grimer,Ice Punch
+Grimer,Thunderbolt
+Grimer,Flamethrower
+Grimer,Thunder
+Grimer,Self-Destruct
+Grimer,Fire Blast
+Grimer,Mega Drain
+Muk,Headbutt
+Muk,Rest
+Muk,Substitute
+Muk,Dig
+Muk,Rock Slide
+Muk,Thunder Punch
+Muk,Toxic
+Muk,Fire Punch
+Muk,Ice Punch
+Muk,Thunderbolt
+Muk,Flamethrower
+Muk,Thunder
+Muk,Self-Destruct
+Muk,Fire Blast
+Muk,Hyper Beam
+Muk,Mega Drain
+Shellder,Headbutt
+Shellder,Teleport
+Shellder,Rest
+Shellder,Substitute
+Shellder,Reflect
+Shellder,Toxic
+Shellder,Tri Attack
+Shellder,Self-Destruct
+Shellder,Surf
+Shellder,Blizzard
+Shellder,Ice Beam
+Cloyster,Headbutt
+Cloyster,Teleport
+Cloyster,Rest
+Cloyster,Substitute
+Cloyster,Reflect
+Cloyster,Toxic
+Cloyster,Tri Attack
+Cloyster,Self-Destruct
+Cloyster,Surf
+Cloyster,Hyper Beam
+Cloyster,Blizzard
+Cloyster,Ice Beam
+Gastly,Headbutt
+Gastly,Rest
+Gastly,Substitute
+Gastly,Thunder Punch
+Gastly,Toxic
+Gastly,Fire Punch
+Gastly,Ice Punch
+Gastly,Thunderbolt
+Gastly,Thunder
+Gastly,Psychic
+Gastly,Self-Destruct
+Gastly,Mega Drain
+Gastly,Dream Eater
+Haunter,Headbutt
+Haunter,Rest
+Haunter,Substitute
+Haunter,Thunder Punch
+Haunter,Toxic
+Haunter,Fire Punch
+Haunter,Ice Punch
+Haunter,Thunderbolt
+Haunter,Thunder
+Haunter,Psychic
+Haunter,Self-Destruct
+Haunter,Mega Drain
+Haunter,Dream Eater
+Gengar,Headbutt
+Gengar,Rest
+Gengar,Substitute
+Gengar,Seismic Toss
+Gengar,Thunder Punch
+Gengar,Toxic
+Gengar,Fire Punch
+Gengar,Ice Punch
+Gengar,Thunderbolt
+Gengar,Thunder
+Gengar,Psychic
+Gengar,Self-Destruct
+Gengar,Hyper Beam
+Gengar,Mega Drain
+Gengar,Dream Eater
+Onix,Headbutt
+Onix,Rest
+Onix,Substitute
+Onix,Dig
+Onix,Rock Slide
+Onix,Toxic
+Onix,Earthquake
+Onix,Self-Destruct
+Drowzee,Headbutt
+Drowzee,Teleport
+Drowzee,Rest
+Drowzee,Light Screen
+Drowzee,Substitute
+Drowzee,Reflect
+Drowzee,Seismic Toss
+Drowzee,Thunder Wave
+Drowzee,Thunder Punch
+Drowzee,Toxic
+Drowzee,Tri Attack
+Drowzee,Fire Punch
+Drowzee,Ice Punch
+Drowzee,Psychic
+Drowzee,Dream Eater
+Hypno,Headbutt
+Hypno,Teleport
+Hypno,Rest
+Hypno,Light Screen
+Hypno,Substitute
+Hypno,Reflect
+Hypno,Seismic Toss
+Hypno,Thunder Wave
+Hypno,Thunder Punch
+Hypno,Toxic
+Hypno,Tri Attack
+Hypno,Fire Punch
+Hypno,Ice Punch
+Hypno,Psychic
+Hypno,Hyper Beam
+Hypno,Dream Eater
+Krabby,Headbutt
+Krabby,Rest
+Krabby,Substitute
+Krabby,Dig
+Krabby,Rock Slide
+Krabby,Toxic
+Krabby,Surf
+Krabby,Blizzard
+Krabby,Ice Beam
+Kingler,Headbutt
+Kingler,Rest
+Kingler,Substitute
+Kingler,Dig
+Kingler,Rock Slide
+Kingler,Toxic
+Kingler,Surf
+Kingler,Hyper Beam
+Kingler,Blizzard
+Kingler,Ice Beam
+Voltorb,Headbutt
+Voltorb,Teleport
+Voltorb,Rest
+Voltorb,Light Screen
+Voltorb,Substitute
+Voltorb,Reflect
+Voltorb,Thunder Wave
+Voltorb,Toxic
+Voltorb,Thunderbolt
+Voltorb,Thunder
+Voltorb,Self-Destruct
+Electrode,Headbutt
+Electrode,Teleport
+Electrode,Rest
+Electrode,Light Screen
+Electrode,Substitute
+Electrode,Reflect
+Electrode,Thunder Wave
+Electrode,Toxic
+Electrode,Thunderbolt
+Electrode,Thunder
+Electrode,Self-Destruct
+Electrode,Hyper Beam
+Exeggcute,Headbutt
+Exeggcute,Teleport
+Exeggcute,Rest
+Exeggcute,Light Screen
+Exeggcute,Substitute
+Exeggcute,Reflect
+Exeggcute,Toxic
+Exeggcute,Psychic
+Exeggcute,Self-Destruct
+Exeggcute,Solar Beam
+Exeggcute,Mega Drain
+Exeggcute,Dream Eater
+Exeggutor,Headbutt
+Exeggutor,Teleport
+Exeggutor,Rest
+Exeggutor,Light Screen
+Exeggutor,Substitute
+Exeggutor,Reflect
+Exeggutor,Toxic
+Exeggutor,Psychic
+Exeggutor,Self-Destruct
+Exeggutor,Solar Beam
+Exeggutor,Hyper Beam
+Exeggutor,Mega Drain
+Exeggutor,Dream Eater
+Cubone,Headbutt
+Cubone,Rest
+Cubone,Substitute
+Cubone,Dig
+Cubone,Seismic Toss
+Cubone,Rock Slide
+Cubone,Thunder Punch
+Cubone,Toxic
+Cubone,Fire Punch
+Cubone,Flamethrower
+Cubone,Earthquake
+Cubone,Fire Blast
+Cubone,Blizzard
+Cubone,Ice Beam
+Marowak,Headbutt
+Marowak,Rest
+Marowak,Substitute
+Marowak,Dig
+Marowak,Seismic Toss
+Marowak,Rock Slide
+Marowak,Thunder Punch
+Marowak,Toxic
+Marowak,Fire Punch
+Marowak,Flamethrower
+Marowak,Earthquake
+Marowak,Fire Blast
+Marowak,Hyper Beam
+Marowak,Blizzard
+Marowak,Ice Beam
+Hitmonlee,Headbutt
+Hitmonlee,Rest
+Hitmonlee,Substitute
+Hitmonlee,Seismic Toss
+Hitmonlee,Rock Slide
+Hitmonlee,Toxic
+Hitmonlee,Earthquake
+Hitmonchan,Headbutt
+Hitmonchan,Rest
+Hitmonchan,Substitute
+Hitmonchan,Seismic Toss
+Hitmonchan,Rock Slide
+Hitmonchan,Thunder Punch
+Hitmonchan,Toxic
+Hitmonchan,Fire Punch
+Hitmonchan,Ice Punch
+Hitmonchan,Earthquake
+Lickitung,Headbutt
+Lickitung,Rest
+Lickitung,Substitute
+Lickitung,Dig
+Lickitung,Seismic Toss
+Lickitung,Rock Slide
+Lickitung,Thunder Punch
+Lickitung,Toxic
+Lickitung,Fire Punch
+Lickitung,Ice Punch
+Lickitung,Thunderbolt
+Lickitung,Flamethrower
+Lickitung,Thunder
+Lickitung,Earthquake
+Lickitung,Solar Beam
+Lickitung,Fire Blast
+Lickitung,Surf
+Lickitung,Hyper Beam
+Lickitung,Blizzard
+Lickitung,Ice Beam
+Lickitung,Dream Eater
+Koffing,Headbutt
+Koffing,Rest
+Koffing,Substitute
+Koffing,Toxic
+Koffing,Thunderbolt
+Koffing,Flamethrower
+Koffing,Thunder
+Koffing,Self-Destruct
+Koffing,Fire Blast
+Weezing,Headbutt
+Weezing,Rest
+Weezing,Substitute
+Weezing,Toxic
+Weezing,Thunderbolt
+Weezing,Flamethrower
+Weezing,Thunder
+Weezing,Self-Destruct
+Weezing,Fire Blast
+Weezing,Hyper Beam
+Rhyhorn,Headbutt
+Rhyhorn,Rest
+Rhyhorn,Substitute
+Rhyhorn,Dig
+Rhyhorn,Rock Slide
+Rhyhorn,Toxic
+Rhyhorn,Thunderbolt
+Rhyhorn,Flamethrower
+Rhyhorn,Thunder
+Rhyhorn,Earthquake
+Rhyhorn,Fire Blast
+Rhyhorn,Blizzard
+Rhyhorn,Ice Beam
+Rhydon,Headbutt
+Rhydon,Rest
+Rhydon,Substitute
+Rhydon,Dig
+Rhydon,Seismic Toss
+Rhydon,Rock Slide
+Rhydon,Thunder Punch
+Rhydon,Toxic
+Rhydon,Fire Punch
+Rhydon,Ice Punch
+Rhydon,Thunderbolt
+Rhydon,Flamethrower
+Rhydon,Thunder
+Rhydon,Earthquake
+Rhydon,Fire Blast
+Rhydon,Surf
+Rhydon,Hyper Beam
+Rhydon,Blizzard
+Rhydon,Ice Beam
+Rhydon,Pay Day
+Chansey,Headbutt
+Chansey,Teleport
+Chansey,Rest
+Chansey,Light Screen
+Chansey,Substitute
+Chansey,Reflect
+Chansey,Seismic Toss
+Chansey,Thunder Wave
+Chansey,Rock Slide
+Chansey,Thunder Punch
+Chansey,Toxic
+Chansey,Tri Attack
+Chansey,Fire Punch
+Chansey,Ice Punch
+Chansey,Thunderbolt
+Chansey,Flamethrower
+Chansey,Thunder
+Chansey,Psychic
+Chansey,Earthquake
+Chansey,Solar Beam
+Chansey,Fire Blast
+Chansey,Hyper Beam
+Chansey,Blizzard
+Chansey,Ice Beam
+Chansey,Dream Eater
+Tangela,Headbutt
+Tangela,Rest
+Tangela,Substitute
+Tangela,Reflect
+Tangela,Toxic
+Tangela,Solar Beam
+Tangela,Hyper Beam
+Tangela,Mega Drain
+Kangaskhan,Headbutt
+Kangaskhan,Rest
+Kangaskhan,Substitute
+Kangaskhan,Dig
+Kangaskhan,Seismic Toss
+Kangaskhan,Rock Slide
+Kangaskhan,Thunder Punch
+Kangaskhan,Toxic
+Kangaskhan,Fire Punch
+Kangaskhan,Ice Punch
+Kangaskhan,Thunderbolt
+Kangaskhan,Flamethrower
+Kangaskhan,Thunder
+Kangaskhan,Earthquake
+Kangaskhan,Solar Beam
+Kangaskhan,Fire Blast
+Kangaskhan,Surf
+Kangaskhan,Hyper Beam
+Kangaskhan,Blizzard
+Kangaskhan,Ice Beam
+Horsea,Headbutt
+Horsea,Rest
+Horsea,Substitute
+Horsea,Waterfall
+Horsea,Toxic
+Horsea,Surf
+Horsea,Blizzard
+Horsea,Ice Beam
+Seadra,Headbutt
+Seadra,Rest
+Seadra,Substitute
+Seadra,Waterfall
+Seadra,Toxic
+Seadra,Surf
+Seadra,Hyper Beam
+Seadra,Blizzard
+Seadra,Ice Beam
+Goldeen,Headbutt
+Goldeen,Rest
+Goldeen,Substitute
+Goldeen,Waterfall
+Goldeen,Toxic
+Goldeen,Surf
+Goldeen,Blizzard
+Goldeen,Ice Beam
+Seaking,Headbutt
+Seaking,Rest
+Seaking,Substitute
+Seaking,Waterfall
+Seaking,Toxic
+Seaking,Surf
+Seaking,Hyper Beam
+Seaking,Blizzard
+Seaking,Ice Beam
+Staryu,Headbutt
+Staryu,Teleport
+Staryu,Rest
+Staryu,Light Screen
+Staryu,Substitute
+Staryu,Reflect
+Staryu,Thunder Wave
+Staryu,Waterfall
+Staryu,Toxic
+Staryu,Tri Attack
+Staryu,Thunderbolt
+Staryu,Thunder
+Staryu,Psychic
+Staryu,Surf
+Staryu,Blizzard
+Staryu,Ice Beam
+Starmie,Headbutt
+Starmie,Teleport
+Starmie,Rest
+Starmie,Light Screen
+Starmie,Substitute
+Starmie,Reflect
+Starmie,Thunder Wave
+Starmie,Waterfall
+Starmie,Toxic
+Starmie,Tri Attack
+Starmie,Thunderbolt
+Starmie,Thunder
+Starmie,Psychic
+Starmie,Surf
+Starmie,Hyper Beam
+Starmie,Blizzard
+Starmie,Ice Beam
+Starmie,Dream Eater
+Mr. Mime,Headbutt
+Mr. Mime,Teleport
+Mr. Mime,Rest
+Mr. Mime,Light Screen
+Mr. Mime,Substitute
+Mr. Mime,Reflect
+Mr. Mime,Seismic Toss
+Mr. Mime,Thunder Wave
+Mr. Mime,Thunder Punch
+Mr. Mime,Toxic
+Mr. Mime,Fire Punch
+Mr. Mime,Ice Punch
+Mr. Mime,Thunderbolt
+Mr. Mime,Thunder
+Mr. Mime,Psychic
+Mr. Mime,Solar Beam
+Mr. Mime,Hyper Beam
+Mr. Mime,Dream Eater
+Scyther,Headbutt
+Scyther,Rest
+Scyther,Light Screen
+Scyther,Substitute
+Scyther,Toxic
+Scyther,Hyper Beam
+Jynx,Headbutt
+Jynx,Teleport
+Jynx,Rest
+Jynx,Light Screen
+Jynx,Substitute
+Jynx,Reflect
+Jynx,Seismic Toss
+Jynx,Toxic
+Jynx,Ice Punch
+Jynx,Psychic
+Jynx,Hyper Beam
+Jynx,Blizzard
+Jynx,Ice Beam
+Jynx,Dream Eater
+Electabuzz,Headbutt
+Electabuzz,Teleport
+Electabuzz,Rest
+Electabuzz,Light Screen
+Electabuzz,Substitute
+Electabuzz,Reflect
+Electabuzz,Seismic Toss
+Electabuzz,Thunder Wave
+Electabuzz,Thunder Punch
+Electabuzz,Toxic
+Electabuzz,Fire Punch
+Electabuzz,Ice Punch
+Electabuzz,Thunderbolt
+Electabuzz,Thunder
+Electabuzz,Psychic
+Electabuzz,Hyper Beam
+Magmar,Headbutt
+Magmar,Teleport
+Magmar,Rest
+Magmar,Substitute
+Magmar,Seismic Toss
+Magmar,Thunder Punch
+Magmar,Toxic
+Magmar,Fire Punch
+Magmar,Flamethrower
+Magmar,Psychic
+Magmar,Fire Blast
+Magmar,Hyper Beam
+Pinsir,Headbutt
+Pinsir,Rest
+Pinsir,Substitute
+Pinsir,Dig
+Pinsir,Seismic Toss
+Pinsir,Rock Slide
+Pinsir,Toxic
+Pinsir,Earthquake
+Pinsir,Hyper Beam
+Tauros,Headbutt
+Tauros,Rest
+Tauros,Substitute
+Tauros,Rock Slide
+Tauros,Toxic
+Tauros,Thunderbolt
+Tauros,Flamethrower
+Tauros,Thunder
+Tauros,Earthquake
+Tauros,Solar Beam
+Tauros,Fire Blast
+Tauros,Surf
+Tauros,Hyper Beam
+Tauros,Blizzard
+Tauros,Ice Beam
+Gyarados,Headbutt
+Gyarados,Rest
+Gyarados,Substitute
+Gyarados,Reflect
+Gyarados,Thunder Wave
+Gyarados,Waterfall
+Gyarados,Toxic
+Gyarados,Thunderbolt
+Gyarados,Flamethrower
+Gyarados,Thunder
+Gyarados,Earthquake
+Gyarados,Fire Blast
+Gyarados,Surf
+Gyarados,Hyper Beam
+Gyarados,Blizzard
+Gyarados,Ice Beam
+Lapras,Headbutt
+Lapras,Rest
+Lapras,Substitute
+Lapras,Reflect
+Lapras,Waterfall
+Lapras,Toxic
+Lapras,Thunderbolt
+Lapras,Thunder
+Lapras,Psychic
+Lapras,Solar Beam
+Lapras,Surf
+Lapras,Hyper Beam
+Lapras,Blizzard
+Lapras,Ice Beam
+Lapras,Dream Eater
+Eevee,Headbutt
+Eevee,Rest
+Eevee,Substitute
+Eevee,Reflect
+Eevee,Dig
+Eevee,Toxic
+Eevee,Pay Day
+Vaporeon,Headbutt
+Vaporeon,Rest
+Vaporeon,Substitute
+Vaporeon,Reflect
+Vaporeon,Dig
+Vaporeon,Waterfall
+Vaporeon,Toxic
+Vaporeon,Surf
+Vaporeon,Hyper Beam
+Vaporeon,Blizzard
+Vaporeon,Ice Beam
+Vaporeon,Pay Day
+Jolteon,Headbutt
+Jolteon,Rest
+Jolteon,Light Screen
+Jolteon,Substitute
+Jolteon,Reflect
+Jolteon,Dig
+Jolteon,Thunder Wave
+Jolteon,Toxic
+Jolteon,Thunderbolt
+Jolteon,Thunder
+Jolteon,Hyper Beam
+Jolteon,Pay Day
+Flareon,Headbutt
+Flareon,Rest
+Flareon,Substitute
+Flareon,Reflect
+Flareon,Dig
+Flareon,Toxic
+Flareon,Flamethrower
+Flareon,Fire Blast
+Flareon,Hyper Beam
+Flareon,Pay Day
+Porygon,Headbutt
+Porygon,Teleport
+Porygon,Rest
+Porygon,Substitute
+Porygon,Reflect
+Porygon,Thunder Wave
+Porygon,Toxic
+Porygon,Tri Attack
+Porygon,Thunderbolt
+Porygon,Thunder
+Porygon,Psychic
+Porygon,Solar Beam
+Porygon,Hyper Beam
+Porygon,Blizzard
+Porygon,Ice Beam
+Porygon,Dream Eater
+Omanyte,Headbutt
+Omanyte,Rest
+Omanyte,Substitute
+Omanyte,Reflect
+Omanyte,Rock Slide
+Omanyte,Waterfall
+Omanyte,Toxic
+Omanyte,Surf
+Omanyte,Blizzard
+Omanyte,Ice Beam
+Omastar,Headbutt
+Omastar,Rest
+Omastar,Substitute
+Omastar,Reflect
+Omastar,Seismic Toss
+Omastar,Rock Slide
+Omastar,Waterfall
+Omastar,Toxic
+Omastar,Surf
+Omastar,Hyper Beam
+Omastar,Blizzard
+Omastar,Ice Beam
+Kabuto,Headbutt
+Kabuto,Rest
+Kabuto,Substitute
+Kabuto,Reflect
+Kabuto,Dig
+Kabuto,Rock Slide
+Kabuto,Waterfall
+Kabuto,Toxic
+Kabuto,Surf
+Kabuto,Blizzard
+Kabuto,Mega Drain
+Kabuto,Ice Beam
+Kabutops,Headbutt
+Kabutops,Rest
+Kabutops,Substitute
+Kabutops,Reflect
+Kabutops,Dig
+Kabutops,Seismic Toss
+Kabutops,Rock Slide
+Kabutops,Waterfall
+Kabutops,Toxic
+Kabutops,Surf
+Kabutops,Hyper Beam
+Kabutops,Blizzard
+Kabutops,Mega Drain
+Kabutops,Ice Beam
+Aerodactyl,Headbutt
+Aerodactyl,Rest
+Aerodactyl,Substitute
+Aerodactyl,Reflect
+Aerodactyl,Fly
+Aerodactyl,Rock Slide
+Aerodactyl,Toxic
+Aerodactyl,Flamethrower
+Aerodactyl,Earthquake
+Aerodactyl,Fire Blast
+Aerodactyl,Hyper Beam
+Snorlax,Headbutt
+Snorlax,Rest
+Snorlax,Substitute
+Snorlax,Reflect
+Snorlax,Seismic Toss
+Snorlax,Rock Slide
+Snorlax,Thunder Punch
+Snorlax,Toxic
+Snorlax,Fire Punch
+Snorlax,Ice Punch
+Snorlax,Thunderbolt
+Snorlax,Flamethrower
+Snorlax,Thunder
+Snorlax,Psychic
+Snorlax,Earthquake
+Snorlax,Self-Destruct
+Snorlax,Solar Beam
+Snorlax,Fire Blast
+Snorlax,Surf
+Snorlax,Hyper Beam
+Snorlax,Blizzard
+Snorlax,Ice Beam
+Snorlax,Pay Day
+Articuno,Headbutt
+Articuno,Rest
+Articuno,Substitute
+Articuno,Reflect
+Articuno,Fly
+Articuno,Toxic
+Articuno,Hyper Beam
+Articuno,Blizzard
+Articuno,Ice Beam
+Zapdos,Headbutt
+Zapdos,Rest
+Zapdos,Light Screen
+Zapdos,Substitute
+Zapdos,Reflect
+Zapdos,Fly
+Zapdos,Thunder Wave
+Zapdos,Toxic
+Zapdos,Thunderbolt
+Zapdos,Thunder
+Zapdos,Hyper Beam
+Moltres,Headbutt
+Moltres,Rest
+Moltres,Substitute
+Moltres,Reflect
+Moltres,Fly
+Moltres,Toxic
+Moltres,Flamethrower
+Moltres,Solar Beam
+Moltres,Fire Blast
+Moltres,Hyper Beam
+Dratini,Headbutt
+Dratini,Rest
+Dratini,Light Screen
+Dratini,Substitute
+Dratini,Reflect
+Dratini,Thunder Wave
+Dratini,Waterfall
+Dratini,Toxic
+Dratini,Thunderbolt
+Dratini,Flamethrower
+Dratini,Thunder
+Dratini,Fire Blast
+Dratini,Surf
+Dratini,Hyper Beam
+Dratini,Blizzard
+Dratini,Ice Beam
+Dragonair,Headbutt
+Dragonair,Rest
+Dragonair,Light Screen
+Dragonair,Substitute
+Dragonair,Reflect
+Dragonair,Thunder Wave
+Dragonair,Waterfall
+Dragonair,Toxic
+Dragonair,Thunderbolt
+Dragonair,Flamethrower
+Dragonair,Thunder
+Dragonair,Fire Blast
+Dragonair,Surf
+Dragonair,Hyper Beam
+Dragonair,Blizzard
+Dragonair,Ice Beam
+Dragonite,Headbutt
+Dragonite,Rest
+Dragonite,Light Screen
+Dragonite,Substitute
+Dragonite,Reflect
+Dragonite,Fly
+Dragonite,Thunder Wave
+Dragonite,Rock Slide
+Dragonite,Thunder Punch
+Dragonite,Waterfall
+Dragonite,Toxic
+Dragonite,Fire Punch
+Dragonite,Ice Punch
+Dragonite,Thunderbolt
+Dragonite,Flamethrower
+Dragonite,Thunder
+Dragonite,Earthquake
+Dragonite,Fire Blast
+Dragonite,Surf
+Dragonite,Hyper Beam
+Dragonite,Blizzard
+Dragonite,Ice Beam
+Mewtwo,Headbutt
+Mewtwo,Teleport
+Mewtwo,Rest
+Mewtwo,Light Screen
+Mewtwo,Substitute
+Mewtwo,Reflect
+Mewtwo,Seismic Toss
+Mewtwo,Thunder Wave
+Mewtwo,Rock Slide
+Mewtwo,Thunder Punch
+Mewtwo,Toxic
+Mewtwo,Tri Attack
+Mewtwo,Fire Punch
+Mewtwo,Ice Punch
+Mewtwo,Thunderbolt
+Mewtwo,Flamethrower
+Mewtwo,Thunder
+Mewtwo,Psychic
+Mewtwo,Earthquake
+Mewtwo,Self-Destruct
+Mewtwo,Solar Beam
+Mewtwo,Fire Blast
+Mewtwo,Hyper Beam
+Mewtwo,Blizzard
+Mewtwo,Ice Beam
+Mewtwo,Pay Day
+Mewtwo,Dream Eater
+Mew,Headbutt
+Mew,Teleport
+Mew,Rest
+Mew,Light Screen
+Mew,Substitute
+Mew,Reflect
+Mew,Dig
+Mew,Fly
+Mew,Seismic Toss
+Mew,Thunder Wave
+Mew,Rock Slide
+Mew,Thunder Punch
+Mew,Waterfall
+Mew,Toxic
+Mew,Tri Attack
+Mew,Fire Punch
+Mew,Ice Punch
+Mew,Thunderbolt
+Mew,Flamethrower
+Mew,Thunder
+Mew,Psychic
+Mew,Earthquake
+Mew,Self-Destruct
+Mew,Solar Beam
+Mew,Fire Blast
+Mew,Surf
+Mew,Hyper Beam
+Mew,Blizzard
+Mew,Mega Drain
+Mew,Ice Beam
+Mew,Pay Day
+Mew,Dream Eater

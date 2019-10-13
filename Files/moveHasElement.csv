@@ -1,0 +1,166 @@
+﻿movement,element
+Absorb,Grass
+Acid,Poison
+Acid Armor,Poison
+Agility,Psychic
+Amnesia,Psychic
+Aurora Beam,Ice
+Barrage,Normal
+Barrier,Psychic
+Bide,Normal
+Bind,Normal
+Bite,Dark
+Blizzard,Ice
+Body Slam,Normal
+Bone Club,Ground
+Bonemerang,Ground
+Bubble,Water
+Bubble Beam,Water
+Clamp,Water
+Comet Punch,Normal
+Confuse Ray,Ghost
+Confusion,Psychic
+Constrict,Normal
+Conversion,Normal
+Counter,Fighting
+Crabhammer,Water
+Cut,Normal
+Defense Curl,Normal
+Dig,Ground
+Disable,Normal
+Dizzy Punch,Normal
+Double Kick,Fighting
+Double Slap,Normal
+Double Team,Normal
+Double-Edge,Normal
+Dragon Rage,Dragon
+Dream Eater,Psychic
+Drill Peck,Flying
+Earthquake,Ground
+Egg Bomb,Normal
+Ember,Fire
+Explosion,Normal
+Fire Blast,Fire
+Fire Punch,Fire
+Fire Spin,Fire
+Fissure,Ground
+Flamethrower,Fire
+Flash,Normal
+Fly,Flying
+Focus Energy,Normal
+Fury Attack,Normal
+Fury Swipes,Normal
+Glare,Normal
+Growl,Normal
+Growth,Normal
+Guillotine,Normal
+Gust,Flying
+Harden,Normal
+Haze,Ice
+Headbutt,Normal
+High Jump Kick,Fighting
+Horn Attack,Normal
+Horn Drill,Normal
+Hydro Pump,Water
+Hyper Beam,Normal
+Hyper Fang,Normal
+Hypnosis,Psychic
+Ice Beam,Ice
+Ice Punch,Ice
+Jump Kick,Fighting
+Karate Chop,Fighting
+Kinesis,Psychic
+Leech Life,Bug
+Leech Seed,Grass
+Leer,Normal
+Lick,Ghost
+Light Screen,Psychic
+Lovely Kiss,Normal
+Low Kick,Fighting
+Meditate,Psychic
+Mega Drain,Grass
+Mega Kick,Normal
+Mega Punch,Normal
+Metronome,Normal
+Mimic,Normal
+Minimize,Normal
+Mirror Move,Flying
+Mist,Ice
+Night Shade,Ghost
+Pay Day,Normal
+Peck,Flying
+Petal Dance,Grass
+Pin Missile,Bug
+Poison Gas,Poison
+Poison Powder,Poison
+Poison Sting,Poison
+Pound,Normal
+Psybeam,Psychic
+Psychic,Psychic
+Psywave,Psychic
+Quick Attack,Normal
+Rage,Normal
+Razor Leaf,Grass
+Razor Wind,Normal
+Recover,Normal
+Reflect,Psychic
+Rest,Psychic
+Roar,Normal
+Rock Slide,Rock
+Rock Throw,Rock
+Rolling Kick,Fighting
+Sand Attack,Ground
+Scratch,Normal
+Screech,Normal
+Seismic Toss,Fighting
+Self-Destruct,Normal
+Sharpen,Normal
+Sing,Normal
+Skull Bash,Normal
+Sky Attack,Flying
+Slam,Normal
+Slash,Normal
+Sleep Powder,Grass
+Sludge,Poison
+Smog,Poison
+Smokescreen,Normal
+Soft-Boiled,Normal
+Solar Beam,Grass
+Sonic Boom,Normal
+Spike Cannon,Normal
+Splash,Normal
+Spore,Grass
+Stomp,Normal
+Strength,Normal
+String Shot,Bug
+Struggle,Normal
+Stun Spore,Grass
+Submission,Fighting
+Substitute,Normal
+Super Fang,Normal
+Supersonic,Normal
+Surf,Water
+Swift,Normal
+Swords Dance,Normal
+Tackle,Normal
+Tail Whip,Normal
+Take Down,Normal
+Teleport,Psychic
+Thrash,Normal
+Thunder,Electric
+Thunder Punch,Electric
+Thunder Shock,Electric
+Thunder Wave,Electric
+Thunderbolt,Electric
+Toxic,Poison
+Transform,Normal
+Tri Attack,Normal
+Twineedle,Bug
+Vice Grip,Normal
+Vine Whip,Grass
+Water Gun,Water
+Waterfall,Water
+Whirlwind,Normal
+Wing Attack,Flying
+Withdraw,Water
+Wrap,Normal
