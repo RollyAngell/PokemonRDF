@@ -158,6 +158,74 @@ public class PokedexInferencias {
         catch (Exception e){
             System.out.println("Error en la inferencia 5: " + e.getMessage());
         }
+        
+        // Inferencia de subClassOf
+        
+        // Inferencia de subClassOf
+        // Raikou pertenece a la clase legendary_pkmn, que a su vez es subclase de pkmn.
+        // A partir del modelo se infiere que Raikou pertenece también a la clase pkmn.
+        
+        try {
+            Resource raikou = Utilidades.crearRecurso(Utilidades.NS, "Raikou", model);
+            Resource electric = Utilidades.crearRecurso(Utilidades.NS, "Electric", model);
+            Resource legendary_pkmn = Utilidades.obtenerRecurso(Utilidades.NS, "legendary_pkmn", model);
+            Resource pkmn = Utilidades.obtenerRecurso(Utilidades.NS, "pkmn", model);
+            Resource element = Utilidades.obtenerRecurso(Utilidades.NS, "element", model);
+            Property hasPkmnElement = Utilidades.obtenerPropiedad(Utilidades.NS, "hasPkmnElement", model);
+            model.add(raikou, RDF.type, legendary_pkmn);
+            
+            InfModel inf = ModelFactory.createRDFSModel(model);
+            
+            if (existenAfirmaciones(inf, raikou, RDF.type, legendary_pkmn)) {
+                System.out.println("La afirmacion es cierta. Raikou pertenece a legendary_pkmn.");
+            } else {
+                System.out.println("La afirmacion no es cierta. Raikou pertenece a legendary_pkmn.");
+            }
+            
+            if (existenAfirmaciones(inf, raikou, RDF.type, pkmn)) {
+                System.out.println("La afirmacion es cierta. Raikou pertenece a pkmn.");
+            } else {
+                System.out.println("La afirmacion no es cierta. Raikou No pertenece a pkmn.");
+            }
+            
+            
+            
+        }
+        catch (Exception e){
+            System.out.println("Error en la inferencia 5: " + e.getMessage());
+        }
+        
+        
+        // anorith pertenece a la clase extinct_pkmn, que a su vez es subclase de pkmn.
+        // A partir del modelo se infiere que armaldo su evolucion pertenece también a la clase pkmn.
+        
+        try {
+            Resource anorith = Utilidades.crearRecurso(Utilidades.NS, "Anorith", model);
+            Resource armaldo = Utilidades.crearRecurso(Utilidades.NS, "Armaldo", model);
+            Resource extinct_pkmn = Utilidades.obtenerRecurso(Utilidades.NS, "extinct_pkmn", model);
+            Resource pkmn = Utilidades.obtenerRecurso(Utilidades.NS, "pkmn", model);
+            Property evolvesByLvlTo = Utilidades.obtenerPropiedad(Utilidades.NS, "evolvesByLvlTo", model);
+            anorith.addProperty(evolvesByLvlTo, armaldo);
+            model.add(anorith, RDF.type, extinct_pkmn);
+            
+            InfModel inf = ModelFactory.createRDFSModel(model);
+            
+            if (existenAfirmaciones(inf, anorith, RDF.type, extinct_pkmn)) {
+                System.out.println("La afirmacion es cierta. Anorith pertenece a extinct_pkmn.");
+            } else {
+                System.out.println("La afirmacion no es cierta. Anorith No pertenece a extinct_pkmn.");
+            }
+            
+            if (existenAfirmaciones(inf, armaldo, RDF.type, pkmn)) {
+                System.out.println("La afirmacion es cierta. Armaldo pertenece a pkmn.");
+            } else {
+                System.out.println("La afirmacion no es cierta. Armaldo No pertenece a pkmn.");
+            }
+            
+        }
+        catch (Exception e){
+            System.out.println("Error en la inferencia 5: " + e.getMessage());
+        }
     }
     
 }
