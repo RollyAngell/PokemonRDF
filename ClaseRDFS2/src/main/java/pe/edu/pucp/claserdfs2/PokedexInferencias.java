@@ -20,7 +20,7 @@ import static pe.edu.pucp.claserdfs2.Utilidades.existenAfirmaciones;
  */
 public class PokedexInferencias {
     
-    private static final String DIR_BASE = "/Users/luismuroya/NetBeansProjects/Ingenieria_Conocimientos/PokemonRDF";
+    private static final String DIR_BASE = "/Users/gerardocardosoyllanes/Documents/GitHub/PokemonRDF";
     
     public static void main (String []args){
         
@@ -83,9 +83,46 @@ public class PokedexInferencias {
         catch (Exception e){
             System.out.println("Error en la inferencia 2: " + e.getMessage());
         }
+        
         // Inferencia de domain
         
-        // Inferencia de range
+        try {
+            Resource charmander = Utilidades.obtenerRecurso(Utilidades.NS, "Charmander", model);
+            Resource outrage = Utilidades.crearRecurso(Utilidades.NS, "Outrage", model);
+            Property learnsMoveByTMHM = Utilidades.obtenerPropiedad(Utilidades.NS, "learnsMoveByTMHM", model);
+            Resource move = Utilidades.obtenerRecurso(Utilidades.NS, "move", model);
+            model.add(charmander, learnsMoveByTMHM, outrage);
+            InfModel inf = ModelFactory.createRDFSModel(model);
+            
+            if (existenAfirmaciones(inf, outrage, RDF.type, move)) {
+                System.out.println("La afirmacion es cierta. Outrage es un tipo de move");
+            } else {
+                System.out.println("La afirmacion no es cierta. Outrage NO es un tipo de move");
+            }
+        }
+        catch (Exception e){
+            System.out.println("Error en la inferencia 1: " + e.getMessage());
+        }
+        
+        // Inferencia de domain/rango
+        
+        try {
+            Resource smoochum = Utilidades.crearRecurso(Utilidades.NS, "Smoochum", model);
+            Resource jynx = Utilidades.obtenerRecurso(Utilidades.NS, "Jynx", model);
+            Property evolvesByLvlTo = Utilidades.obtenerPropiedad(Utilidades.NS, "evolvesByLvlTo", model);
+            Resource pkmn = Utilidades.obtenerRecurso(Utilidades.NS, "pkmn", model);
+            model.add(smoochum, evolvesByLvlTo, jynx);
+            InfModel inf = ModelFactory.createRDFSModel(model);
+            
+            if (existenAfirmaciones(inf, smoochum, RDF.type, pkmn)) {
+                System.out.println("La afirmacion es cierta. Smoochun es un tipo de pokemon");
+            } else {
+                System.out.println("La afirmacion no es cierta. Smoochun NO es un tipo de pokemon");
+            }
+        }
+        catch (Exception e){
+            System.out.println("Error en la inferencia 1: " + e.getMessage());
+        }
         
         // Inferencia de domain y range
         // Umbreon es un pokemon de 2da generacion. Dark es un tipo de 2da generacion.
